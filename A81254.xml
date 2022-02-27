@@ -1,0 +1,821 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Honourable House of Commons at Westminster, August 22. 1645. Being the day appointed for their solemn thanksgiving unto God for his several mercies to the forces of the Parliament in divers parts of the kingdome, in the gaining of the towns of Bath and Bridgewater, and of Scarborough-Castle, and Sherborn-Castle, and for the dispersing of the Clubmen, and the good successe in Pembroke-shire. By Thomas Case, preacher at Milkstreet, and one of the Assembly of Divines.</title>
+            <author>Case, Thomas, 1598-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81254</idno>
+            <idno type="STC">Wing C842</idno>
+            <idno type="STC">Thomason E297_15</idno>
+            <idno type="STC">ESTC R200227</idno>
+            <idno type="EEBO-CITATION">99861033</idno>
+            <idno type="PROQUEST">99861033</idno>
+            <idno type="VID">113160</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113160)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E297[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Honourable House of Commons at Westminster, August 22. 1645. Being the day appointed for their solemn thanksgiving unto God for his several mercies to the forces of the Parliament in divers parts of the kingdome, in the gaining of the towns of Bath and Bridgewater, and of Scarborough-Castle, and Sherborn-Castle, and for the dispersing of the Clubmen, and the good successe in Pembroke-shire. By Thomas Case, preacher at Milkstreet, and one of the Assembly of Divines.</title>
+                  <author>Case, Thomas, 1598-1682.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[6], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Ruth Raworth, for Luke Fawne, at the signe of the Parrot in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a preliminary order to print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah XLIII, 14 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113160:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED Before the Honourable Houſe OF COMMONS At WESTMINSTER, <hi>Auguſt</hi> 22. 1645. Being the day appointed for their Solemn Thankſgiving unto God for his ſeveral Mercies to the Forces of the Parliament in divers parts of the Kingdome, In the Gaining of the Towns of <hi>Bath</hi> and <hi>Bridgewater,</hi> and of <hi>Scarborough</hi>-Caſtle, and <hi>Sherborn</hi>-Caſtle, and for the diſperſing of the Clubmen, and the good Succeſſe in <hi>Pembroke</hi>-ſhire.</p>
+            <p>By <hi>Thomas Caſe,</hi> Preacher at <hi>Milkſtreet,</hi> and one of the Aſſembly of Divines.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Ruth Raworth,</hi> for <hi>Luke Fawne,</hi> at the ſigne of the <hi>Parrot</hi> in <hi>Pauls</hi> Church-yard. 1645.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113160:2"/>
+            <pb facs="tcp:113160:2"/>
+            <head>To the Honourable the Houſe of <hi>Commons</hi> aſſembled in <hi>Parliament.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T was <hi>Aſa</hi>'s <hi>ſin,</hi> and it ſtands as a <hi>blot</hi> upon him to this day, that he <hi>impriſoned the Seer,</hi> for dealing faithfully with him in a meſſage from the Lord: <note place="margin">2 Chro. 16.7,8,9,10.</note> It hath been your exceeding <hi>honor, worthy Patriots,</hi> and there be <hi>monuments</hi> enough of it publiſhed in <hi>Print</hi> to all the World, that you have not onely <hi>par<g ref="char:EOLhyphen"/>doned,</hi> but <hi>encouraged</hi> thoſe <hi>Hanani</hi>'s which God hath ſent, and you invited, to this Ser<g ref="char:EOLhyphen"/>vice, to deliver unto you <hi>the whole Counſel of God.</hi> It was never heard yet (and I am con<g ref="char:EOLhyphen"/>ſident it never ſhall) that any man hath be<g ref="char:EOLhyphen"/>come <hi>your enemy,</hi> or you his, <hi>for telling you the truth;</hi> And therefore let me tell you one <hi>truth</hi> more: <hi>It is as great a ſin to impriſon the Truth, as to impriſon the Prophets</hi> that deliver it. <note place="margin">Gal. 4.16. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>
+                     <g ref="char:V">Ʋ</g>ſur<g ref="char:EOLhyphen"/>patur de iis qui in carcere &amp; cuſtodia deti<g ref="char:EOLhyphen"/>nenur,</hi> as Gen. 39.20.</note> As it hath been your honour <hi>before men,</hi> that you have not <hi>impriſoned
+<pb facs="tcp:113160:3"/> the Prophets,</hi> let it be your honour <hi>before God,</hi> that you do not <hi>impriſon the Truth.</hi> 
+               <note place="margin">2 Theſ. 2.10,11,12.</note> 
+               <hi>O receive the Truth in the love of it,</hi> and it ſhall preſerve <hi>you from believing lies.</hi> You have by you a <hi>Treaſury,</hi> or <hi>Library</hi> of <hi>Parliament Sermons;</hi> in which, you have many choice <hi>directions</hi> and <hi>encouragements</hi> in the Service, to which, <hi>God</hi> and the <hi>King<g ref="char:EOLhyphen"/>dom</hi> have called you. As you have <hi>heard</hi> them, <hi>hearken</hi> to them; as you have <hi>Printed</hi> them, ſo <hi>conſult with them:</hi> I preſume you Printed them for that end; If you do indeed obey the <hi>voice</hi> of <hi>God in them,</hi> they will <hi>witneſſe for you,</hi> if when you have heard <hi>Gods will,</hi> you will <hi>do your own,</hi> you have ſet up ſo many <hi>monuments</hi> (like <hi>Joſhua's</hi> ſtone) <note place="margin">Joſh. 24.26,27</note> to <hi>witneſſe againſt you</hi> in the day of your <hi>accompt.</hi> As for theſe poor hudled La<g ref="char:EOLhyphen"/>bours, they are preſt to ſerve you, though not with ſo much skill as <hi>others,</hi> yet with as much <hi>ſincerity</hi> as any; as the <hi>Author</hi> himſelf, who, whatever he is, is</p>
+            <closer>
+               <signed>Your Honours, both in <hi>Life</hi> and <hi>Death,</hi> THOMAS CASE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:113160:3"/>
+            <head>A Sermon of Thankſgiving, for the taking of <hi>Bridgewater</hi> and <hi>Sherborn</hi> Caſtle in the Weſt.</head>
+            <epigraph>
+               <q>
+                  <bibl>ISAI. 43.14.</bibl>
+                  <p>Thus ſaith the Lord your Redeemer, the holy One of Iſrael; For your ſakes have I ſent to Babylon, and have brought down all their Nobles, and the Caldeans, whoſe cry is in the ſhips.</p>
+               </q>
+            </epigraph>
+            <div type="introduction">
+               <p>
+                  <seg rend="decorInit">I</seg>T is the glory of God, <note place="margin">Hab. 3.2.</note> That <hi>in the midſt of Judgement he remembreth Mercy.</hi> This glory of God beams it ſelf forth moſt beautifully in the later part of this <hi>E<g ref="char:EOLhyphen"/>vangelical Prophecie,</hi> from the 40 Chap. to the end. This people of <hi>Iſrael</hi> were as yet <hi>hardly in</hi> Captivity: nay, the Prophets of God were but <hi>foretelling</hi> of it in their Sermons to the people; when God ſends this <hi>Goſpel-Prophet Iſaiah</hi> with an Olive-branch of good tydings in his mouth, <hi>promiſes</hi> of <hi>redemption</hi> and <hi>deliverance out of Captivity,</hi> as ſo many Cordials and Preſervatives to prevent deſponding and deſpairing thoughts, as if God meant utterly to caſt off his people, and to leave them to miſcarry and periſh in <hi>Babylon.</hi>
+               </p>
+               <p>My Text is one of thoſe <hi>promiſes,</hi> wherein, though the Ca<g ref="char:EOLhyphen"/>ptivity (as I ſay) were not yet <hi>begun,</hi> God ſpeaks of it as if it were already <hi>expired,</hi> and <hi>Iſrael</hi> already <hi>reſcued</hi> and <hi>redeemed</hi> out of it.</p>
+               <pb n="2" facs="tcp:113160:4"/>
+               <q>
+                  <p>Thus ſaith the Lord your Redeemer, the holy One of <hi>Iſrael,</hi> For your ſakes I have ſent to <hi>Babylon,</hi> &amp;c.</p>
+               </q>
+               <p>
+                  <label>The opening of the Text.</label>
+               </p>
+               <p>I will briefly open the words to you, and then drive up ſuch <hi>Obſervations</hi> as they will naturally afford; ſome on whereof I will ſingle out, for the Subject of my preſent Diſcourſe.</p>
+               <p>
+                  <hi>Thus ſaith the Lord</hi>] <hi>Jehovah,</hi> he that hath <hi>power</hi> enough to make good his <hi>promiſes;</hi> for he is <hi>Jehovah,</hi> The <hi>Fountain of Beings,</hi> his <hi>own,</hi> and <hi>every things</hi> elſe that hath a being; and therefore is able to give a <hi>being</hi> to his <hi>promiſes.</hi>
+               </p>
+               <p>
+                  <hi>Your Redeemer</hi>] The <hi>God</hi> and <hi>Creator</hi> of all things, and of all men; but Your <hi>Redeemer,</hi> that redeems you from <hi>Hell</hi> and <hi>Wrath to come:</hi> That redeemed you from <hi>Egypt,</hi> and from <hi>all the Nations</hi> whither you have been carried away captive; and will redeem you from <hi>Babylon</hi> alſo. He is <hi>willing,</hi> as well as <hi>able;</hi> for he is <hi>your Redeemer.</hi>
+               </p>
+               <p>
+                  <hi>The holy One of Iſrael</hi>] Holy in <hi>himſelf,</hi> eſſentially holy: Holy in his <hi>Covenant</hi> and <hi>Promiſes.</hi> Therefore called, The <hi>holy One of Iſrael;</hi> i. e. <hi>faithfull</hi> in <hi>Covenant</hi> made with <hi>A<g ref="char:EOLhyphen"/>braham, Iſaac</hi> and <hi>Iſrael.</hi> There is his <hi>ſidelity.</hi>
+               </p>
+               <p>
+                  <hi>For your ſakes</hi>] I ſhall open to you the meaning of that expreſſion anon, more ſeaſonably and fully then I can do here.</p>
+               <p>
+                  <hi>I have ſent to Babylon</hi>] <hi>&amp;c.</hi> By the hand of <hi>Cyrus</hi> King of the <hi>Medes</hi> and <hi>Perſians.</hi>
+               </p>
+               <p>
+                  <note place="margin">A <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> deſcendit; <hi>di<g ref="char:EOLhyphen"/>citurde inferiore conditione, ſervi ture &amp; ſubjecti<g ref="char:EOLhyphen"/>one.</hi>
+                  </note> 
+                  <hi>And have brought down</hi>] (i.e. by <hi>Cyrus</hi>) <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>deſcen<g ref="char:EOLhyphen"/>dere feci; I have cauſed to come down:</hi> or, I have brought into <hi>ſubjection,</hi> &amp;c.</p>
+               <p>
+                  <hi>All their Nobles</hi>] <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which I finde diverſly tranſlated, as indeed the word is capable of various ſignifi<g ref="char:EOLhyphen"/>cations.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Ar. Montanus, Calo</hi> &amp;c.</note> Some tranſlate it, <hi>Fugitivos; deſcendere feci fugitivos uni<g ref="char:EOLhyphen"/>verſos ipſos:</hi> I have brought down, or cauſed to come down, all <hi>their fugitives;</hi> becauſe the Hebrew root <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſignifies <hi>fu<g ref="char:EOLhyphen"/>gere,</hi> to <hi>flie.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>In Conjugatione Kal.</hi>
+                  </note> Others tranſlate it <hi>vectes, Bars,</hi> metaphorically, becauſe a <hi>bar</hi> doth as it were flee from one ſide of the <hi>gate</hi> or door to another.</p>
+               <p>Thus God promiſes <hi>Cyrus, Iſai.</hi> 45.2. <hi>I will break in
+<pb n="3" facs="tcp:113160:4"/> pieces the gates of Braſſe, and cut in ſunder the Bars of Iron.</hi>
+                  <note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>ſignificat vectis, quia tranſcurrit &amp; quaſe fugit, ab uno extremo ad aliud.</hi>
+                  </note>
+               </p>
+               <p>Thereupon I conceive it is, that <note n="*" place="margin">Sanches.</note> ſome do render it <hi>impedimenta, remoras,</hi> &amp;c. all thoſe <hi>impediments</hi> and <hi>obſtru<g ref="char:EOLhyphen"/>ctions</hi> which, as ſo many <hi>bars</hi> or <hi>bolts,</hi> did hinder ſo long the Expedition of <hi>Cyrus</hi> into <hi>Babylon:</hi> One whereof was the River <hi>Euphrates;</hi> which impediment or bar was removed or taken away by diverting of that River into divers other Chanels (made and prepared on purpoſe beforehand by the Army of <hi>Cyrus</hi>) that very night in which the <hi>Babylonians</hi> were carowſing and drinking themſelves drunk in their ſecu<g ref="char:EOLhyphen"/>rity, whereby the <hi>Medes</hi> and <hi>Perſians</hi> came in upon them, and ſlew them, while they little dream'd of any poſſibility of the enemies acceſſe that way into the Citie: <note place="margin">Xenophon, <hi>lib.</hi> 7. <hi>Cyripaediae.</hi> Herod. <hi>li.</hi> 1. Theodor. Vatab. <hi>&amp;c.</hi>
+                  </note> Propheſied of by the Prophet <hi>Jer.</hi> 50 38. <hi>A drought is upon her waters:</hi> And ſo, Chap. 51.32.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Muri, Turres omniaque muni menta</hi> Babylo<g ref="char:EOLhyphen"/>nis. Corneli<g ref="char:EOLhyphen"/>us a Lap.</note> Some, by <hi>bars,</hi> underſtand their <hi>Walls,</hi> and <hi>Towers,</hi> and <hi>Strong-holds,</hi> and all the mighty <hi>Fortifications</hi> of <hi>Babylon,</hi> which ſeemed impregnable: And ſo the words muſt run thus: <hi>I have ſent to Babylon, and have cauſed all their Towers and Caſtles, and fenced Cities, and their invincible Fortifications</hi> (in their own opinion) <hi>to come down, and fall flat upon the ground before</hi> Cyrus <hi>his Army.</hi> As God threatned to do to <hi>Ty<g ref="char:EOLhyphen"/>rus</hi> by the King of <hi>Babylon,</hi> ſo God threatens to do with the King of <hi>Babylon</hi> by <hi>Cyrus:</hi> 
+                  <note place="margin">Ezek. 26.9.</note> 
+                  <hi>He ſhall ſee engines of War againſt thy walls, and with his Axes he ſhall break down thy Towers.</hi> 
+                  <note place="margin">Zeph. 3.6.</note> So, <hi>I have cut off the Nations, their Towers are deſolate.</hi>
+               </p>
+               <p>
+                  <note place="margin">Hierom, <hi>&amp;c. quia fortes ſunt &amp; potentes.</hi>
+                  </note> Others, by <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, underſtand <hi>Reges, Principes,</hi> The King and Princes of <hi>Babylon;</hi> becauſe they are, or ſhould be, the <hi>bars</hi> and <hi>ſtrength, defence</hi> and <hi>ſafety</hi> of a Kingdom; and ſo our Tranſlators have rendred it, <hi>I have brought down their Nobles:</hi> And thus they are threatned, <hi>Jer.</hi> 50.35. <note place="margin">Jer. 50.35.</note> 
+                  <hi>A ſword is upon the Caldeans, ſaith the Lord, and upon the inhabitants of Babylon, and upon her Princes, and upon her wiſe men.</hi>
+               </p>
+               <p>And thus it follows in my Text:</p>
+               <p>
+                  <hi>And the Caldeans</hi>] <hi>i.e.</hi> As in that place of <hi>Jer.</hi> The inha<g ref="char:EOLhyphen"/>bitants, or the common-people of <hi>Babylon;</hi> not onely the <hi>Nobles</hi> and great <hi>Commanders,</hi> but upon all the people, all the <hi>military forces</hi> of <hi>Babylon;</hi> called, <hi>Jer.</hi> 50.37. <hi>The mingled
+<pb n="4" facs="tcp:113160:5"/> people that were in the midſt of her.</hi> The King of <hi>Babylon</hi> ha<g ref="char:EOLhyphen"/>ving hired Souldiers of all Nations to ſerve in his Army: Why now, ſaith God, All theſe have <hi>I brought down;</hi> that is, made to <hi>fall</hi> or <hi>flee</hi> before the <hi>Medes</hi> and <hi>Perſians.</hi>
+               </p>
+               <p>
+                  <hi>Whoſe cry is in the ſhips</hi>] <hi>In navibus gloriantes,</hi> or <hi>ovantes;</hi> who <hi>boaſt</hi> and <hi>glory</hi> in their <hi>Shipping:</hi> So ſome. But I con<g ref="char:EOLhyphen"/>ceive it rather, it is meant of the cry and howling they made while either they were <hi>fleeing from the</hi> Medes <hi>and</hi> Perſians <hi>in Ships,</hi> the paſſages by land being ſtopt up, as <hi>Jer.</hi> 31.31. or while they were <hi>carried away priſoners</hi> by the <hi>Medes</hi> and <hi>Perſians in ſhips:</hi> Their cry went up to heaven.</p>
+               <p>In a word, God here promiſes to break in pieces all the power and ſtrength of <hi>Babylon,</hi> to daſh the whole Empire in pieces, like a Potters veſſel, before <hi>Cyrus;</hi> that ſo the priſon-doors might be opened to his poor <hi>Iſrael,</hi> that had lien priſoner and captive in <hi>Babylon</hi> now ſeventy yeers, their Iron bolts might be ſtricken off, and they ſet at liberty to re<g ref="char:EOLhyphen"/>turn home to <hi>Sion,</hi> with joy and gladneſſe upon their heads. So ſpeaks God of <hi>Cyrus:</hi> 
+                  <note place="margin">Iſai. 45.13.</note> 
+                  <hi>I have raiſed him up in righteouſ<g ref="char:EOLhyphen"/>neſſe, and I will direct all his ways; he ſhall build my Citie, and he ſhall let go my Captives, not for price nor reward, ſaith the Lord of Hoſts.</hi>
+               </p>
+               <p>The words now thus opened, I come to the Obſerva<g ref="char:EOLhyphen"/>tions.</p>
+            </div>
+            <div type="observations">
+               <div n="1" type="observation">
+                  <p>
+                     <label>1 <hi>Obſerv.</hi>
+                     </label>
+                  </p>
+                  <p>And firſt, from the circumſtance of time when this pro<g ref="char:EOLhyphen"/>miſe was made; namely, ſome hundreds of yeers before the Captivity was brought upon them: Obſerve,</p>
+                  <p>
+                     <hi>While God is yet bringing his people into trouble, yea, but yet threatning of them with trouble; he is medi<g ref="char:EOLhyphen"/>tating and contriving the ways and means (as I may ſo ſay) of bringing them out of their troubles.</hi>
+                  </p>
+                  <p>Hence it is, that the means of deliverance are not to ſeek when the time of deliverance is come. God hath his Balſoms prepared, before he wounds his people; his Cordials, before he makes them ſick with his Coraſives. <note place="margin">2 Pet. 2.9.</note> 
+                     <hi>The Lord knows how to deliver the goldly out of temptations.</hi>
+                  </p>
+                  <pb n="5" facs="tcp:113160:5"/>
+                  <p>The means are prepared beforehand. This may miniſter abundance of comfort to the people of God; even while they are <hi>entering into,</hi> or <hi>lying under</hi> their afflictions; while they are entering into the <hi>hour of Temptation:</hi> Why the means of their deliverance and enlargement are all <hi>prepared</hi> and <hi>fitted</hi> already, by the hand of a <hi>wiſe</hi> and <hi>faithfull</hi> Re<g ref="char:EOLhyphen"/>deemer.</p>
+                  <p>But again, This <hi>ruine</hi> of <hi>Babylon,</hi> and <hi>enlargement</hi> of <hi>Iſrael,</hi> is ſpoken of (here) as a thing <hi>done already: I have ſent</hi> (ſaith God) <hi>to Babylon, and brought down their Nobles, &amp;c.</hi> ſome indeed read it in the future tenſe, <hi>I will ſend to Babylon, and will bring down their Nobles:</hi> The <hi>Hebrew</hi> indeed bears both; But truely, the future tenſe is not ſo emphaticall as the pre<g ref="char:EOLhyphen"/>terperfect tenſe, which God uſeth to expreſſe the certainty of his promiſes: From whence,</p>
+               </div>
+               <div n="2" type="observation">
+                  <p>2. Obſerv. <hi>The promiſes of God are as certain, as if they were already accompliſht:</hi> Here is more comfort for the peo<g ref="char:EOLhyphen"/>ple of God: The promiſes of God, are as good money as any they have in their purſes.</p>
+                  <p>To this end, ſee further how this promiſe is guarded and backt, with what ever may ſtrengthen Faith: For</p>
+                  <p n="1">1. Here God layes his <hi>credit</hi> and <hi>reputation</hi> to ſtake upon this promiſe. <hi>Thus ſaith the Lord.</hi>
+                  </p>
+                  <p n="2">2. He engageth his <hi>Power</hi> and <hi>All-ſufficiency. Jehovah</hi> a fountain of <hi>Beings;</hi> and therefore able to give a <hi>Being</hi> to his <hi>promiſes.</hi>
+                  </p>
+                  <p n="3">3. His <hi>Love,</hi> his <hi>tender care</hi> of his people, though ſcorned and perſecuted by the world; yet he is <hi>their Redeemer:</hi> there is his <hi>willingneſſe.</hi>
+                  </p>
+                  <p n="4">4. His <hi>fidelity; The Holy One of Iſrael:</hi> If he deny his Covenant, his promiſe, he muſt deny <hi>himſelf,</hi> his <hi>Holineſſe.</hi>
+                  </p>
+                  <p>And from all this,</p>
+               </div>
+               <div n="3" type="observation">
+                  <p>3. Obſerv. <hi>God in making his promiſes, is very ſollicitous and carefull to ſecure the faith of his people, about the making of them good.</hi>
+                  </p>
+                  <p>It implies two things:</p>
+                  <p n="1">1. Much <hi>infidelitie</hi> and <hi>unbelief</hi> even in <hi>Iſrael.</hi>
+                  </p>
+                  <p n="2">2. The great <hi>goodneſſe</hi> and <hi>compaſſion</hi> of God, who when
+<pb n="6" facs="tcp:113160:6"/> he might <hi>puniſh</hi> the unbelief of his people, ſtudies to <hi>ſuccour</hi> it: According to the prayer of the Father of the poſſeſſed childe, <note place="margin">Mark 9.24.</note> 
+                     <hi>I beleeve, Lord help my unbelief.</hi>
+                  </p>
+                  <p>But further, The Lord <hi>your Redeemer.</hi>
+                  </p>
+               </div>
+               <div n="4" type="observation">
+                  <p>4. Obſerve in the fourth place,</p>
+                  <p>
+                     <hi>God gives himſelf out to his Church and people, in no wayes ſo much, as in wayes of Redemption.</hi>
+                  </p>
+                  <p>Indeed, <hi>One creation</hi> would ſerve their turn, but they ſtand in need of many <hi>Redemptions:</hi>
+                  </p>
+                  <p>Or thus,</p>
+                  <p>
+                     <hi>God is properly and peculiarly the God of his Church and peo<g ref="char:EOLhyphen"/>ple, by way of Redemption.</hi>
+                  </p>
+                  <p>He is the <hi>Creator</hi> of the <hi>Juſt</hi> and <hi>unjuſt, good men</hi> and <hi>wicked, Angels</hi> and <hi>Divels:</hi> But he is a <hi>Redeemer,</hi> onely and properly, to his <hi>Church.</hi>
+                  </p>
+                  <p>And this implies alſo two things:</p>
+                  <p n="1">1. The Churches forlorn condition in her ſelf; <note place="margin">Iſaiah 49.21.</note> 
+                     <hi>a poor lost captaive:</hi> She <hi>loſeth</hi> her ſelf, ſhe <hi>ſells</hi> her ſelf at every turn: The <hi>world</hi> takes her captive, <hi>ſin</hi> takes her captive, <hi>Hell</hi> takes her captive: Had ſhe not a God to redeem her, ſhe were loſt for ever.</p>
+                  <p n="2">2. The <hi>care,</hi> and <hi>love,</hi> and <hi>goodneſſe</hi> of God, in <hi>reſcuing</hi> and <hi>redeeming</hi> her: She <hi>ſells her ſelf</hi> by her ſins, God <hi>purchaſeth</hi> her; She <hi>loſeth her ſelf,</hi> God <hi>ſeeks</hi> her up; She is <hi>taken cap<g ref="char:EOLhyphen"/>tive,</hi> by men and divels, God <hi>redeems her:</hi> Here be the tender mercies of a God.</p>
+                  <p>
+                     <hi>The Holy One of Iſrael:</hi> See</p>
+               </div>
+               <div n="5" type="observation">
+                  <p>5. Obſerv. <hi>Such is the love God bears to his Church and people, That he doth not onely put his Name upon his people, but takes his peoples name upon himſelf.</hi>
+                  </p>
+                  <p>It is much, that <hi>Iſrael</hi> ſhould be called <hi>The Iſrael of God:</hi> but that God ſhould be called <hi>The God of Iſrael, The Holy One of Iſrael;</hi> This is above all admiration.</p>
+                  <p>Yet further; <hi>I have ſent to Babylon,</hi> ſc. <hi>by the Miniſtery of Cyrus,</hi> to deliver <hi>Iſrael</hi> out of priſon. The <hi>Babylonians</hi> thought <hi>Iſrael</hi> as ſure from ſtarting, as ever <hi>Herod</hi> thought <hi>Peter;</hi> 
+                     <note place="margin">Acts 12.6.</note> at what time, <hi>He committed him to four quaternions of ſouldiers, and bound him with two chains between two ſoul<g ref="char:EOLhyphen"/>diers,</hi>
+                     <pb n="7" facs="tcp:113160:6"/> intending to have brought him forth the next day to be tryed for his life.</p>
+                  <p>And poor <hi>Iſrael</hi> gave themſelves for loſt too; they thought it was as poſſible for a dead man to break out of his grave, as for them to get out of captivity: (the more was their unbelief, and God took it very unkindly, ha<g ref="char:EOLhyphen"/>ving made them ſuch gracious promiſes of deliverance) <note place="margin">Ezek. 37.11.</note> 
+                     <hi>Behold, they ſay</hi> (ſaid God to his Prophet) <hi>our bones are dried, and our hope is loſt; we are cut off for our parts:</hi> And yet not<g ref="char:EOLhyphen"/>withſtanding, you ſee God had a way and a means, beyond all expectation, for their enlargement: He had an Army ready for this ſervice, that neither the <hi>Babylonians</hi> nor <hi>Iſrael</hi> little dreamt of. It is an obſervation of it ſelf.</p>
+               </div>
+               <div n="6" type="observation">
+                  <p>6. Obſerv. <hi>When no way of deliverance appears to humane reaſon, God hath wayes in ſtore by him, for the Redemption of his Church and people, out of thoſe evills which ſeem to threaten in<g ref="char:EOLhyphen"/>evitable ruine and deſtruction.</hi>
+                  </p>
+                  <p>Again, <hi>I have ſent. Cyrus went,</hi> and yet <hi>God ſent:</hi> He went voluntarily, carried on by his own luſts: His <hi>pride,</hi> his <hi>cove<g ref="char:EOLhyphen"/>touſneſſe,</hi> and <hi>unſatisfiable ambition, Hab.</hi> 2.5,6. and yet <hi>God ſends</hi> him upon a deſign which he little thought of: To let his <hi>Iſrael</hi> out of priſon. From whence,</p>
+               </div>
+               <div n="7" type="observation">
+                  <p>7. Obſerv. <hi>Gods holy ends, and mans ſinfull ends, may ſweet<g ref="char:EOLhyphen"/>ly concur in the ſame action.</hi>
+                  </p>
+                  <p>And it may teach us this point of prudence, <hi>Wiſely to diſ<g ref="char:EOLhyphen"/>tinguiſh between, what is Gods, and what is mans, in the ſame action:</hi> Man doth <hi>fooliſhly</hi> (many times) God doth <hi>wiſely;</hi> man <hi>weakly,</hi> God <hi>powerfully;</hi> man <hi>trecherouſly,</hi> God <hi>faith<g ref="char:EOLhyphen"/>fully;</hi> man <hi>ſinfully,</hi> God moſt <hi>righteouſly.</hi> This will keep us from <hi>juſtifying the miſcarriages of men;</hi> and yet from <hi>mur<g ref="char:EOLhyphen"/>muring</hi> againſt the <hi>wiſe</hi> and <hi>righteous diſpenſations of God.</hi>
+                  </p>
+                  <p>I have brought down <hi>their Barres, i.e.</hi> as you have ſeen, all the <hi>power and ſtrength of Babylon.</hi>
+                  </p>
+               </div>
+               <div n="8" type="observation">
+                  <p>8. Obſerv. From thence you may take an eighth Obſer<g ref="char:EOLhyphen"/>vation, <hi>viz. The ſtrongeſt, and ſcuningly most inconquerable impediments and obſtructions that ſtand in the way of the Churches deliverance, ſhall he all broken in peices, and become as dirt, when Gods time of deliverance is come.</hi>
+                  </p>
+                  <pb n="8" facs="tcp:113160:7"/>
+                  <p>Take the word as it is tranſlated, <hi>Their Nobles,</hi> that is, <hi>The King and Princes of Babylon:</hi> So tranſlated from their Office, and that will make a ninth Obſervation: <hi>ſc.</hi>
+                  </p>
+               </div>
+               <div n="9" type="observation">
+                  <p>9. <hi>Kings and Princes, and the Nobles of a Land, they ought to be as Towers and Barres, ſtrength and ſafety, to a Kingdom and Nation.</hi>
+                  </p>
+                  <p>The more ſad and deplorable is the condition of that people, whoſe Governours are ſuch as are deſcribed; <note place="margin">Iſai. 1.23.</note> 
+                     <hi>Thy Princes are rebellious, and companions of theeves,</hi> &amp;c. <note place="margin">Zeph. 3.3.</note> 
+                     <note place="margin">Zeph. 3.3.</note> And <hi>Her Princes within her are roaring Lions, and her Judges are Eve<g ref="char:EOLhyphen"/>ning Wolves, &amp;c.</hi> The Lord have mercy on ſuch a people.</p>
+                  <p>But from the whole, take this</p>
+               </div>
+               <div n="10" type="observation">
+                  <p>10 and laſt Obſervation. <hi>In the mighty concuſſions and ſub<g ref="char:EOLhyphen"/>verſions of the Empires and Monarchies of the World, God carries on the deſignes of his Churches deliverance and enlarge<g ref="char:EOLhyphen"/>ment.</hi>
+                  </p>
+                  <p>Or thus,</p>
+                  <p>
+                     <hi>God for his Church and peoples ſake, will not ſpare to daſh Nations and Kingdoms all to peices, in the day of his power and jealouſie.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="doctrine">
+               <q>
+                  <p>For your ſake have I ſent to Babylon, and brought down, &amp;c.</p>
+               </q>
+               <p>I ſhall not be able in ſuch ſtraits of time, to travell through the <hi>Hiſtoricall part</hi> of this Doctrine; and to ſhew you by an induction of particulars, how in the breaking, and deſtruction of Kingdoms and Nations, God hath carried on the deſigne of his Churches enlargement.</p>
+               <p>
+                  <hi>Who raiſed up the righteous man from the Eaſt, called him to his foot, gave the Nations before him, and made him rule over Kings; he gave them as duſt to his Sword, and as driven ſtubble to his Bow.</hi>
+               </p>
+               <p>So is it ſaid of <hi>Abraham,</hi> and the ſtory you have, <hi>Gen.</hi> 14. where you ſhall finde five Kings with their Armies, and ſpoil, given as duſt to <hi>Abrahams</hi> ſword, <hi>for Abrahams ſake, and the reſcue of Lot,</hi> his Brothers ſon, who was then car<g ref="char:EOLhyphen"/>ried captive by the numerous and potent enemy.</p>
+               <p>From that time forward, travell through the Scripture,
+<pb n="9" facs="tcp:113160:7"/> and you ſhall finde the ruines of <hi>Egypt, Baſhan,</hi> the <hi>Amorites,</hi> and all the <hi>Kingdoms of Canaan; Paleſtina, Syria</hi> and <hi>Aſſy<g ref="char:EOLhyphen"/>ria; Babylon,</hi> both <hi>Old</hi> and <hi>New: Babylon Ethnick,</hi> and <hi>Babylon Antichriſtian,</hi> with other Monarchies and Empires of the World, ſtanding as ſo many Monuments and Wit<g ref="char:EOLhyphen"/>neſſes of this truth.</p>
+               <p>All that I intend in the Doctrinall part of this diſcourſe, is to open unto you the meaning of this expreſſion,
+<q>
+                     <p>For your ſakes.</p>
+                  </q>
+               </p>
+               <p>And I will be the ſhorter in it, that I may have the more time to beſtow in the Uſe.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Excludit his verbis omnem popult dignita<g ref="char:EOLhyphen"/>tem, ne quid ſuo merito ſe adep<g ref="char:EOLhyphen"/>tum fuiſſe glorie<g ref="char:EOLhyphen"/>tur,</hi> Calv.</note> 
+                  <hi>For your ſakes,</hi> I have ſent, <hi>&amp;c.</hi> 
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Propter vos; for you,</hi> or <hi>for your ſake:</hi> We muſt be ſure to exclude all thought of <hi>merit</hi> in this and the like expreſſions: As when God promiſed <hi>Abraham</hi> to ſpare <hi>Sodom, for fifty ſake,</hi> and <hi>for fourty ſake, Gen.</hi> 18.26,29. And to <hi>defend Jeruſalem for his own ſake, and his ſervant Davids ſake,</hi> 2 <hi>King.</hi> 20.6. The worth and merit of the creature muſt be laid in the duſt.</p>
+               <p>But <hi>for you,</hi> or <hi>for your ſake,</hi> in this place may mean three things.</p>
+               <p n="1">
+                  <note place="margin">
+                     <hi>For your ſake,</hi> a threefold ſence.</note> 1. Firſt, <hi>For your ſake,</hi> i.e. <hi>In propitiationem veſtram, In your ſtead,</hi> or for your <hi>propitiation</hi> and <hi>attonement</hi> as it were. <note place="margin">
+                     <hi>Pro hoſtia vel victima piacu<g ref="char:EOLhyphen"/>lari.</hi>
+                  </note> So you have it more cleerly in the third Verſe of this 43 of <hi>Iſaiah, I gave Egypt for thy ranſome, Ethiopia and Seba for thee;</hi> i. e. <hi>For a propitiatory Sacrifice</hi> (as it were) to ap<g ref="char:EOLhyphen"/>peaſe my wrath towards thee; which the Antients were wont to call <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>homines facino<g ref="char:EOLhyphen"/>roſi pro Patriae luſtratione morti devoti, qui diris execrationibus obruti magno cum totius popu<g ref="char:EOLhyphen"/>li tripudio inter<g ref="char:EOLhyphen"/>ficiebantur,</hi> Steph. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Sacri Homines,</hi> Budaeus.</note> ſuch men who in the time of pub<g ref="char:EOLhyphen"/>like and common plagues, were either devoted to death by the people, or did willingly devote themſelves, to appeaſe (as they imagined) the anger of their gods, who were called <hi>Sacri homines,</hi> or <hi>devota capita,</hi> among the Latines; men <hi>curſed</hi> and <hi>devoted</hi> to death, to be as it were a propitiatory Sacrifice for their Countrey and Nation. Such was <hi>M. Curtius</hi> among the <hi>Romans,</hi> who in the time of a great caſm, or opening of the Earth in <hi>Rome,</hi> caſt himſelf into the Gulf, to appeaſe the angry deity. However, this was a blinde and unwarrantable ſuperſtition among the <hi>Heathen;</hi> yet the Text may allude to it.</p>
+               <pb n="10" facs="tcp:113160:8"/>
+               <p>
+                  <hi>I gave Egypt for thy ranſome, Ethiopia and Saba for thee;</hi> That is, when <hi>Sennacherib</hi> made his Expedition againſt <hi>Judah</hi> and <hi>Jeruſalem,</hi> to deſtroy and lay it waſte, <note place="margin">Cyril.</note> 
+                  <hi>ego effeci ut pro Judaea Sennacheribo objiceretur Ethiopia, Egyptus &amp; Saba quaſi victima piacularis loco Judeae ab eo mactanda.</hi> I cauſed him to return from <hi>Judah</hi> and <hi>Jeruſalem,</hi> and I diverted his Expedition upon <hi>Ethiopia</hi> and <hi>Egypt,</hi> and gave them as pia<g ref="char:EOLhyphen"/>cular Sacrifices, to be offered up to divine Juſtice, inſtead of <hi>Jeruſalem: I gave Egypt for thy ranſom.</hi> And thus God did once and again, as I might ſhew you had I time, out of <hi>Iſai.</hi> 37.9,37. propheſied of, <hi>Iſa.</hi> 20.4. According to that of the <hi>Proverbs</hi> 11.8. <hi>The righteous is delivered out of trouble, and the wicked cometh in his ſtead.</hi>
+               </p>
+               <p>Gods people are the <hi>Iſaac</hi> ſpared and reſcued, when even the knife is at their throat; and the <hi>wicked,</hi> the enemies of the Church, as the <hi>Ram</hi> caught by the horns, and ſacrificed in their ſtead.</p>
+               <p>So here, <hi>Iſrael</hi> delivered out of Captivity, and the <hi>Baby<g ref="char:EOLhyphen"/>lonians</hi> ſacrificed in their room to Divine Juſtice, and God reconciled to <hi>Iſrael.</hi> 
+                  <note place="margin">
+                     <hi>Feci commuta<g ref="char:EOLhyphen"/>tionem tuam E<g ref="char:EOLhyphen"/>gyptum.</hi> Iſa. 43.4.</note> And to this purpoſe the <hi>Septuagint</hi> read it, <hi>I have given Egypt,</hi> &amp;c. <hi>by way of exchange for thee:</hi> And ſo the Text reads on, <hi>I will give men for thee, and people for thy life.</hi>
+               </p>
+               <p>This may be the firſt ſenſe: <hi>For thee,</hi> or <hi>for thy ſake.</hi>
+               </p>
+               <p n="2">2. <hi>For thee; In commodum tuum, In liberationem tuam.</hi> I have ſent <hi>Cyrus</hi> to <hi>Babylon for thee;</hi> that is, for thy <hi>good,</hi> for thy <hi>enlargement</hi> and <hi>deliverance</hi> out of Captivity, to ſerve thee, as <hi>Iſai.</hi> 45.13. <hi>He ſhall let go my captives,</hi> &amp;c.</p>
+               <p n="3">3. But yet further, <hi>for thee</hi> may imply <hi>reſpect</hi> had by God, in ſending <hi>Cyrus</hi> to <hi>Babylon,</hi> to his people, though not by way of <hi>merit,</hi> yet by way of <hi>motive,</hi> and that in a fourfold re<g ref="char:EOLhyphen"/>ſpect.</p>
+               <p n="1">1. <hi>The love he bears to their perſons:</hi> God hath an high eſteem of his people. So he tells them in the fourth verſe of this Chapter: <note place="margin">Iſa. 43.4.</note> 
+                  <hi>Since thou waſt precious in my ſight, thou haſt been honourable, and I have loved thee; therefore will I give men for thee, and people for thy life.</hi> So God loves his people, that, rather then they ſhall miſcarry, Nations and people ſhall
+<pb n="11" facs="tcp:113160:8"/> go to confuſion. <note place="margin">Pſal. 116.15.</note> 
+                  <hi>Precious in the eyes of the Lord is the death of his Saints:</hi> Yea, ſo precious, that God accounts the world no better then the firſt Chaos, unleſſe he have a people of his own to dwell in it: <note place="margin">Iſa. 45.18.</note> 
+                  <hi>For thus ſaith the Lord that created the heavens, God himſelf that formed the earth and made it; he eſta<g ref="char:EOLhyphen"/>bliſhed it, he created it not in vain, he formed it to be inhabited.</hi> It is an argument whereby God comforts his people, That he will ſave his <hi>Iſrael,</hi> verſ. 17. <hi>But Iſrael ſhall be ſaved in the Lord,</hi> &amp;c. What ſecurity? <hi>Heaven</hi> and <hi>Earth;</hi> both were <hi>loſt,</hi> if <hi>Iſrael</hi> be not <hi>ſaved: He created it not in vain.</hi> It is in vain (ſuch is Gods love) if he have not an <hi>Iſrael</hi> to inha<g ref="char:EOLhyphen"/>bite it.</p>
+               <p n="2">2. <hi>The love the Lord bears to their prayers.</hi> Look in what language the Church prays, <hi>Iſa.</hi> 63.17 <note place="margin">Iſa. 63.17.</note> 
+                  <hi>Return for thy ſervants ſake, the tribes of thine inheritance;</hi> in the ſame God anſwers them here: <hi>For your ſake have I ſent to Babylon.</hi> So runs the promiſe; <note place="margin">Iſa. 65.24.</note> 
+                  <hi>Before they call, I will anſwer, and while they are yet ſpeaking, I will hear. Hezekiahs</hi> prayers are an <hi>hook in the noſtrils, and a bridle in the lips of the</hi> Babyloniſh <hi>Plunderer,</hi> Iſa. 37.25, <hi>&amp;c.</hi> compared with verſ. 29.</p>
+               <p>I tell, The Saints of the Moſt High God can <hi>pray down</hi> Empires, and Kingdoms, and the <hi>Towers,</hi> and <hi>Caſtles,</hi> and <hi>Walls</hi> of the proudeſt enemies: It is ſafer ſtanding before the mouth of a Canon, then before the prayers of the Saints.</p>
+               <p> 
+                  <note place="margin">The Queen of the <hi>Scots.</hi>
+                  </note> You know who feared the prayers of <hi>Knox</hi> more then all the Forces of <hi>England.</hi> Indeed the prayers of the Saints are the <hi>plagues</hi> of the world. It is obſervable, <hi>Revel.</hi> 8.3,4,5. that Cenſer which received the prayers of the Saints, empti<g ref="char:EOLhyphen"/>ed forth fire, and voices, and thunderings, and lightnings, and earthquakes, <hi>&amp;c.</hi> that which went up, <hi>Prayer,</hi> comes down <hi>plagues.</hi>
+               </p>
+               <p>No wonder ſince Chriſt is ſo taken with the prayers of his Church, that by his good will he would never have the ſound of that Muſick out of his ears. <hi>Oh my Dove, that art art in the clefts of the rock, in the ſecret places of the ſtairs; let me ſee thy countenance, and hear thy voice: For ſweet is thy voice,</hi> &amp;c.</p>
+               <p n="3">3. <hi>The Relation</hi> wherein the Saints ſtand towards God,
+<pb n="12" facs="tcp:113160:9"/> takes much upon his heart: <hi>Servants, Sons, Daughters, Friends,</hi> the <hi>Spouſe</hi> of Chriſt. Why what will not a man do for theſe <hi>Relations ſake?</hi> And will not the great God much more engage himſelf for his people which ſtand in this Re<g ref="char:EOLhyphen"/>lation to him, ſince he is the Fountain of all that love and fidelity which fills theſe Relations among men?</p>
+               <p n="4">4. The Image of God is ſtampt upon them, and therefore he doth ſuch great things <hi>for their ſake.</hi> 
+                  <note place="margin">Heb. 1.3. <hi>cum</hi> Epheſ. 4.24. &amp; Coloſſ. 3.10.</note> As <hi>Christ</hi> is the <hi>I<g ref="char:EOLhyphen"/>mage of God,</hi> ſo the <hi>Saints</hi> are the <hi>Image of Chriſt;</hi> inſo<g ref="char:EOLhyphen"/>much that you may hear God ſaying unto them, <note place="margin">Zech. 2.8.</note> 
+                  <hi>He that toucheth you, toucheth the apple of mine eye.</hi>
+               </p>
+               <p>In theſe reſpects God may be ſaid to do all theſe things for his <hi>peoples ſake; ſc.</hi>
+               </p>
+               <p>For the love he bears to their
+<list>
+                     <item>
+                        <hi>Perſons,</hi>
+                     </item>
+                     <item>
+                        <hi>Prayers,</hi>
+                     </item>
+                     <item>
+                        <hi>Relation,</hi>
+                     </item>
+                     <item>
+                        <hi>Image.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>And yet all theſe may be reſolved into an <hi>higher foun<g ref="char:EOLhyphen"/>tain,</hi> out of which all theſe do flow; and it is fourfold alſo. I will but name them.</p>
+               <p n="1">1. For <hi>free graces ſake;</hi> as in that Proclamation, <hi>Exod.</hi> 33.19. <hi>I will be gracious to whom I will be gracious, and will ſhew mercy on whom I will ſhew mercy.</hi>
+               </p>
+               <p n="2">2. For his Covenants ſake. <note place="margin">Pſal. 105.8.</note> 
+                  <hi>He hath remembred his Cove<g ref="char:EOLhyphen"/>nant for ever; the word which he commanded to a thouſand ge<g ref="char:EOLhyphen"/>nerations.</hi> 
+                  <note place="margin">Pſal. 106.45. Pſal. 111.5.</note> 
+                  <hi>And he remembred for them his Covenant. He hath given meat to them that fear him, he will ever be mindfull of his Covenant.</hi>
+               </p>
+               <p>God looks upon his Covenant, and then accounts it but his engagement to do great things for his people.</p>
+               <p n="3">3. For his <hi>Christs ſake:</hi> So <hi>Daniel</hi> prayed, when he wreſtled with God for this very mercy which here God pro<g ref="char:EOLhyphen"/>miſeth, <note place="margin">Dan. 9.17.</note> 
+                  <hi>Deliverance out of Captivitie. O our God, hear the prayer of thy ſervant, and his ſupplications, and cauſe thy face to ſhine upon thy Sanctuary which is deſolate, for the Lords ſake.</hi>
+               </p>
+               <p>
+                  <note place="margin">Iſa. 49.8,9. &amp; 42.1. Matth. 3.17.</note> 
+                  <hi>Chriſt</hi> is his Fathers <hi>Darling,</hi> his <hi>Beloved, in whom his ſoul delights;</hi> and God looks upon his redeemed <hi>through Chriſt,</hi>
+                  <pb n="13" facs="tcp:113160:9"/> and his ſoul is delighted in them alſo. <note place="margin">Epheſ. 1.6.</note> 
+                  <hi>He hath made us accep<g ref="char:EOLhyphen"/>ted in the Beloved.</hi> After he hath beſtowed a <hi>Chriſt</hi> upon them, he thinks nothing too good or too much for their ſake. <hi>He that ſpared not his own Son, but delivered him up for us all, how ſhall he not with him alſo freely give us all things?</hi> After he hath redeemed them from <hi>eternall death,</hi> with the <hi>Blood of his Son,</hi> he will not ſtick to redeem them from <hi>temporall De<g ref="char:EOLhyphen"/>ſtruction,</hi> with the <hi>blood</hi> of his and their <hi>enemies. I will give men for thee, and people for thy life.</hi>
+               </p>
+               <p>
+                  <hi>For his Name.</hi> His Name is called upon his people.</p>
+               <p>
+                  <note place="margin">Iſa. 43.6.</note> 
+                  <hi>Bring my ſons from far, and my daughters from the ends of the earth.</hi>
+               </p>
+               <p>
+                  <note place="margin">Iſa. 43.7.</note> 7. <hi>Every one that is called by my Name; for I have created him for my glory,</hi> &amp;c. Their name is called upon God, and Gods Name is called upon them. If they periſh, his <hi>Name</hi> ſuffers, his <hi>Glory</hi> ſuffers; they bear his <hi>Name,</hi> which is his <hi>Glory;</hi> and therefore <hi>Joſhua</hi> took the advantage of this ar<g ref="char:EOLhyphen"/>gument, when he pleaded for <hi>Iſrael;</hi> 
+                  <note place="margin">Joſh. 7.9.</note> 
+                  <hi>What wilt thou do to thy great Name?</hi> q. d. Though <hi>Iſrael</hi> deſerves to ſuffer, <hi>thy Name</hi> doth not deſerve to ſuffer; in ſaving <hi>Iſrael,</hi> thou ſhalt preſerve thine own <hi>Name:</hi> and upon theſe terms God is re<g ref="char:EOLhyphen"/>ſolved to ſave them.</p>
+               <p>
+                  <note place="margin">Iſa. 48.</note> 9. <hi>For my Names ſake I will defer mine anger, and for my praiſe will I refrain for thee, that I cut thee not off.</hi>
+               </p>
+               <p>10. <hi>Behold, I have refined thee, but not with ſilver,</hi> &amp;c.</p>
+               <p>11. <hi>For mine own ſake, even for mine own ſake, I will do it; for how ſhould my Name be polluted? and I will not give my glo<g ref="char:EOLhyphen"/>ry to another.</hi>
+               </p>
+               <p>God deſtroys the enemie for <hi>his peoples ſake,</hi> becauſe he hath loved and choſen them for his <hi>own ſake,</hi> his <hi>Names ſake.</hi>
+               </p>
+               <p>And thus I have ſhewed you the <hi>ſenſe</hi> and <hi>meaning</hi> of this expreſſion, <hi>For your ſake,</hi> and the <hi>ſpring</hi> and <hi>fountain</hi> of that ſenſe.</p>
+               <p>And this ſhall ſuffice for the Doctrinall part of my Text: I come now to the <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> and <hi>Application.</hi>
+               </p>
+            </div>
+            <div type="application">
+               <p>
+                  <label>
+                     <g ref="char:V">Ʋ</g>ſes.</label>
+               </p>
+               <p>And there are but two Uſes I will ſpeak to:
+<list>
+                     <item>1. <hi>Information,</hi>
+                     </item>
+                     <item>2. <hi>Exhortation.</hi>
+                     </item>
+                  </list>
+               </p>
+               <div n="1" type="application">
+                  <pb n="14" facs="tcp:113160:10"/>
+                  <p>
+                     <label>
+                        <g ref="char:V">Ʋ</g>ſe.</label>
+                  </p>
+                  <p>It may ſerve, firſt, <hi>to inform</hi> us, and that in divers parti<g ref="char:EOLhyphen"/>culars:</p>
+                  <div n="1" type="branch">
+                     <p>
+                        <label>1. Branch of Information.</label>
+                     </p>
+                     <p>Firſt, <hi>To diſcover to us the difference of mercies.</hi> Some mercies you ſee there be, which <hi>God</hi> beſtows on his people for <hi>their ſake;</hi> Deliverances from, and victories over their enemies: <hi>God</hi> ſubdues and deſtroyes Armies, and Countreys, and Nations; before them; and all this he doth for his peo<g ref="char:EOLhyphen"/>ples ſake; he hath <hi>reſpect</hi> to them in ſuch works as theſe be: But ſome works there be, which <hi>God</hi> doth onely for his <hi>own ſake;</hi> ſuch as are</p>
+                     <p>
+                        <hi>Predeſtination</hi>] <note place="margin">Epheſ. 1.5.</note> Having predeſtinated us to the Adoption of Children to himſelf, according to the good pleaſure of his will. <hi>To himſelf;</hi> and <hi>the good pleaſure of his will:</hi> The good <hi>pleaſure of his will,</hi> the <hi>ground;</hi> and to <hi>himſelf,</hi> the <hi>end.</hi>
+                     </p>
+                     <p>
+                        <hi>Juſtification</hi>] <note place="margin">Tit. 3.7.</note> Juſtified by his <hi>grace,</hi> no other ingredient goes into <hi>Juſtification</hi> by way of Motive, but onely <hi>Free-grace.</hi>
+                     </p>
+                     <p>
+                        <note place="margin">Iſai. 43.25.</note> So <hi>Pardon of ſin,</hi> which is a part of Juſtification: I even, even I am he that blotteth out thy tranſgreſſions, <hi>for my own ſake;</hi> and ſo their everlaſting ſalvation. <note place="margin">Epheſ. 2.5.</note> 
+                        <hi>By grace ye are ſaved.</hi>
+                     </p>
+                     <p>In theſe mercies, the people of God come not in ſo much as by way of <hi>motive,</hi> much leſſe by way of <hi>merit:</hi> But God doth theſe meerly and immediately for his <hi>own ſake.</hi>
+                     </p>
+                     <p>The reaſon of this difference is, becauſe theſe <hi>temporall mercies</hi> and <hi>deliverances, finde</hi> them the people of God; but <hi>election, juſtification, &amp;c. make</hi> them the people of God; thoſe <hi>finde</hi> them <hi>qualified</hi> perſons; theſe <hi>beſtow</hi> theſe <hi>qualifi<g ref="char:EOLhyphen"/>cations</hi> upon them: And therefore learn to diſtinguiſh of mercies, and to prize, and put in for your ſhare in thoſe mer<g ref="char:EOLhyphen"/>cies, which purely and unmixtly are <hi>in,</hi> and <hi>from,</hi> and <hi>for,</hi> and <hi>to</hi> himſelf.</p>
+                     <p>
+                        <note place="margin">Iſai. 55.3.</note> 
+                        <hi>The ſure mercies of David.</hi>
+                     </p>
+                  </div>
+                  <div n="2" type="branch">
+                     <p>Second branch of Information. <hi>See and admire the love of God to his Church and people:</hi> They were <hi>taken out of the ſame pit,</hi> and <hi>hewn out of the ſame rock,</hi> with the reſt of the world; they had all one <hi>Father</hi> and <hi>Mother,</hi> and yet ſee what a dif<g ref="char:EOLhyphen"/>ference
+<pb n="15" facs="tcp:113160:10"/> God makes between them: Surely, as much as he makes between <hi>men,</hi> and the <hi>beaſts</hi> of the earth; he gives them as bread to his people to feed upon, he makes them as <hi>ſacrifices</hi> for the <hi>expiation</hi> of his wrath towards his people; when his wrath goes forth armed as it were againſt his peo<g ref="char:EOLhyphen"/>ple, he commands it to turn aſide, and ſatisfie it ſelf with the blood of mighty Nations, and great ones of the world, that riſe up againſt the Church. He makes them but as the <hi>Rams</hi> to be ſacrificed to divine Juſtice in the room of his <hi>Iſaacs.</hi>
+                     </p>
+                     <p>And if this be ſuch an honour; What is it then, that he gave his <hi>own onely Son,</hi> not the Creature, but the Creator, <note place="margin">Heb. 1.3. Iſai. 53.6. Rom. 8.32. John 6.55.</note> 
+                        <hi>The brightneſſe of his glory, and the expreſſe form of his perſon,</hi> to be a <hi>Sacrifice of Expiation, a Propitiation;</hi> to be as it were, a <hi>devotum Caput,</hi> upon which, he layes the iniquities of all his <hi>Elect;</hi> to deliver him up to death for them; and then to give his <hi>Body</hi> and <hi>Blood</hi> to be their ſpirituall <hi>meat</hi> and <hi>drink,</hi> to life eternall?</p>
+                     <p>Here is love indeed; Love above all expreſſion, above all admiration. <note place="margin">John 3.26.</note> 
+                        <hi>So God loved the world, &amp;c.</hi> Oh, labour to get intereſt in this Love, and you are made for ever.</p>
+                  </div>
+                  <div n="3" type="branch">
+                     <p>Thirdly, <hi>Take notice how vainly and ignorantly the Philo<g ref="char:EOLhyphen"/>ſophers and other wiſemen of the world, have diſcourſed of the Riſe and Ruine of the Nations and Kingdoms of the world:</hi> They have dreamt of the <hi>periods</hi> of Monarchies and States; <note place="margin">
+                           <hi>Vid. Victor. Strigel. Apho<g ref="char:EOLhyphen"/>riſ. Polit. &amp; Johan. a Cokier Aphoriſm. Polit.</hi>
+                        </note> The <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> whereof ſome make 50, ſome 100; ſome 300, the <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 500 yeers; the great Aſtrologers have conſulted the Stars, and the Influences, and Houſes of the Heavens: But they have not conſulted the God of the <hi>Stars,</hi> the Maker and Upholder of Heaven and Earth: They have not conſulted Gods Oracles, where this great Myſtery is revealed; and the Reaſons and Cauſes of all theſe alterations and confuſi<g ref="char:EOLhyphen"/>ons that befall the great and mighty Empires and Dominions of the World, diſcovered to the ſons of men; namely, the <hi>deliverance</hi> and <hi>enlargement</hi> of the Church, and therein the <hi>propagation</hi> and <hi>exaltation</hi> of the Kingdom of his dear Son, the Lord Jeſus Chriſt, the great end of ends, they have been ignorant of: <hi>The wayes of God they have known.</hi>
+                     </p>
+                     <p>And as blinde and ignorant are the <hi>Kings</hi> and <hi>Nations</hi> of
+<pb n="16" facs="tcp:113160:11"/> the world, who while they make war one with another, pull down and deſtroy each other, as here the <hi>Medes</hi> and <hi>Perſians</hi> come to conquer and ſubdue the <hi>Babylonian</hi> Em<g ref="char:EOLhyphen"/>pire, little know or conſider who ſets them on work, as God ſpeaks to <hi>Cyrus;</hi> 
+                        <note place="margin">Iſai. 45.4. <hi>Nihil minus vulgo creduum fuit quam illius Monarchae ruina cencuſſum ſuiſſe orbent ut in pa<g ref="char:EOLhyphen"/>triam redirent Judaei qui tunc abjectiſſimi erant in hominum oculis,</hi> Calv.</note> 
+                        <hi>I have ſirnamed thee, though thou haſt not known me; and I girded thee, though thou haſt not known me.</hi> He did not know who ſet him on work; he took no<g ref="char:EOLhyphen"/>tice of nothing but his own ends; the enlargement of his own Empire; He thought he was his <hi>own man.</hi> As when God ſent <hi>Iſrael</hi> into Captivity, the <hi>Babylonian</hi> Tyrant minded nothing but his own <hi>luſts,</hi> his <hi>pride,</hi> and his <hi>cruelty,</hi> his <hi>ambition,</hi> and <hi>covetouſneſſe;</hi> and yet he was but Gods <hi>Rod</hi> and <hi>Staff,</hi> to beat and correct his hypocriticall, and re<g ref="char:EOLhyphen"/>bellious children. <note place="margin">Iſai. 10.5,6,</note> 
+                        <hi>O Aſſyrian, the rod of mine anger, &amp;c.</hi> 
+                        <note place="margin">Verſe 7.</note> 
+                        <hi>Howbeit, he meaneth not ſo, neither doth his heart think ſo, but it is in his heart to deſtroy and cut off Nations not a few;</hi> So when he brought them out of <hi>Babylon, Cyrus</hi> thinks he goes upon his own errand, howbeit, God tells him, <hi>For Jacob my ſervants ſake, and Iſrael mine elect, I have even called thee by Name.</hi>
+                     </p>
+                     <p>The Nations, and their Kings and Emperours, are doing <hi>Gods work,</hi> and the <hi>Churches work,</hi> when they think not of it: <hi>God ſends them,</hi> and they think they go about their own buſineſſe.</p>
+                  </div>
+                  <div n="4" type="branch">
+                     <p>Fourth branch. Hence alſo, <hi>We may ſee upon <gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iſad<g ref="char:EOLhyphen"/>vantage the enemies of the Church, be they never ſo <gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> and potent, come to make war with the Saints.</hi> They come to fight with a generation great in Gods eyes, his favourites, before whom <hi>God</hi> contemns the Nations, and deſpiſeth the perſons of Kings and Emperours.</p>
+                     <p>
+                        <note place="margin">Pſal. 105.</note> Verſe 15. <hi>When they went from one Nation to another, and from one Kingdom to another people,</hi> (<hi>ſc. From</hi> Egypt <hi>to</hi> Canaan.)</p>
+                     <p>Verſ. 14. <hi>He ſuffered no man to do them wrong, but rebuked Kings for their ſakes:</hi>
+                     </p>
+                     <p>Verſ. 15. <hi>Saying, Touch not mine anointed; and do my Pro<g ref="char:EOLhyphen"/>phets no harm.</hi>
+                     </p>
+                     <p>A Text which Kings and Potentates ſhall know, that they
+<pb n="17" facs="tcp:113160:11"/> and their Paraſites have miſtaken and abuſed; when <hi>God</hi> ſhall write the true and ſad interpretation thereof <hi>in their blood,</hi> for his deſpiſed peoples ſake.</p>
+                     <p>Truely, When Princes and their people combine and conſpire to come from afar, with their united forces to battle with the Church, it is but many times to bring their own Throats to be cut, to ſave the people of <hi>God</hi> the labour of longer marches, and harder ſieges. Conſult at your lei<g ref="char:EOLhyphen"/>ſure theſe two famous places, <hi>Joſh.</hi> 11.1,2,3,4,5. with verſes 19, 20. and <hi>Mich.</hi> 4.11,12,13.</p>
+                  </div>
+                  <div n="5" type="branch">
+                     <p>Fifthly, <hi>This Doctrine takes away all ground of boaſting, and contention, about the Inſtruments which God uſeth in bring<g ref="char:EOLhyphen"/>ing down the ſtrength and pride of the enemy.</hi> There is this ob<g ref="char:EOLhyphen"/>ſervation lapt up in the bowels of it; <hi>ſc.</hi> That God gives not victories alwayes for their ſakes that fight the battles of the Church, but for the Churches ſake, whoſe battles (un<g ref="char:EOLhyphen"/>der the Lord of Hoſts) they are.</p>
+                     <p>
+                        <hi>Cyrus</hi> here, goes up to <hi>Babylon,</hi> hath notable and wonder<g ref="char:EOLhyphen"/>full ſucceſſes; it was not for <hi>his ſake</hi> (he knew not upon what ſervice he went) but for <hi>Iſraels ſake; For your ſake I have ſent to Babylon.</hi>
+                     </p>
+                     <p>I ſpeak not this to obſcure and eclipſe the praiſe of any, whoſe <hi>fidelity</hi> and <hi>valour,</hi> in the dangerous and daring under<g ref="char:EOLhyphen"/>takings of this later age, have deſerved as highly from this Nation, as ever any did ſince the foundations of this King<g ref="char:EOLhyphen"/>dom were laid: <note place="margin">Judges 5.9.</note> No, <hi>My heart is toward the worthies of Iſrael, that offered themſelves willingly among the people: Praiſe ye the Lord.</hi>
+                     </p>
+                     <p>I ſpeak it onely to this end, that people may not lay more upon acts of providence, then they will bear. I ſpeak it to the ſame end, that the Apoſtle layes in his Caution about faithfull Miniſters of the Goſpel, <note place="margin">1 Cor. 4.6.</note> 
+                        <hi>That you be not puffed up for one against another:</hi> That that which is undoub<g ref="char:EOLhyphen"/>tedly <hi>matter</hi> of <hi>joy</hi> and <hi>thankfulneſſe</hi> to all, might not through the corruption of our natures, and the wilineſſe of the tempter, be turned into an <hi>occaſion</hi> of <hi>pride</hi> and <hi>contention</hi> to any. That that may not <hi>divide</hi> us, which rightly improved, might be an happy means to <hi>reconcile</hi>
+                        <pb n="18" facs="tcp:113160:12"/> and <hi>unite</hi> us. <note place="margin">Jere. 9.24.</note> 
+                        <hi>He that glorieth, let him glory in the Lord.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="2" type="application">
+                  <p>Second Uſe. <hi>Exhortation.</hi>
+                  </p>
+                  <p>Hath God in the great turnings of States and Kingdoms upſide down, in breaking Monarchies and Kingdoms, and all the Malignant powers of the earth, an eye to his Church, reſpect to his people? Doth God do theſe great things for his Churches ſake? For his peoples ſake? <hi>See then how much we ſtand engaged to God this day.</hi> Hath not God (my Bre<g ref="char:EOLhyphen"/>thren) done as much for <hi>England,</hi> as ever he did for <hi>Iſrael?</hi> Hath not God for <hi>Englands</hi> ſake, ſent to <hi>Babylon,</hi> and brought down all their <hi>Barres?</hi>
+                  </p>
+                  <p>You may pleaſe to obſerve, That ever after <hi>Iſrael</hi> was in <hi>Babylon,</hi> all the enemies of the Church, to the end of the world, are called <hi>Aſſyrians,</hi> as <hi>Mich.</hi> 5.5. This man (ſpeak<g ref="char:EOLhyphen"/>ing of <hi>Chriſt</hi>) ſhall be the peace when the <hi>Aſſyrian</hi> ſhall come into our Land, <hi>&amp;c.</hi> 
+                     <note place="margin">Revel. 14.8. and 16.19. and 17.5. and 18.2,10.</note> And <hi>Babylonians,</hi> eſpecially <hi>Rome,</hi> with all the <hi>Antichriſtian enemies</hi> of the Church, they are called <hi>Babylon. Rome</hi> is <hi>Babylon,</hi> and all the Popiſh and An<g ref="char:EOLhyphen"/>tichriſtian multitude, are <hi>Babylonians;</hi> which now in theſe three Kingdoms have taken up Arms againſt Chriſt, his Go<g ref="char:EOLhyphen"/>vernment and people; and what a ſad thing is it my Bre<g ref="char:EOLhyphen"/>thren, to ſee <hi>our King</hi> in the head of an <hi>Army of Babylonians,</hi> refuſing as it were to be called, the <hi>King of England, Scot<g ref="char:EOLhyphen"/>land, and Ireland,</hi> and chuſing rather to be called, the <hi>King of Babylon, &amp;c. This is a Lamentation, and ſhall be for a La<g ref="char:EOLhyphen"/>mentation.</hi> The Lord us help to mourn for it in our ſecret Chambers.</p>
+                  <p>But now I ſay, hath not God in a great meaſure fulfill'd my Text upon our <hi>Babyloniſh</hi> enemies, in bringing down their <hi>Barres?</hi> take them in which of the ſenſes you will, abovementioned; take them with <hi>Sanches</hi> for <hi>Impedimenta, &amp;c.</hi> The <hi>Impediments</hi> and <hi>Remora's,</hi> which lay in the way of <hi>Reformation,</hi> and <hi>Deliverance</hi> of <hi>Gods</hi> people out of that <hi>Romiſh</hi> bondage, wherein they and the <hi>Ordinances</hi> were taken <hi>Captive;</hi> (for though we <hi>were</hi> not <hi>in Babylon,</hi> yet <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi> was <hi>in the midſt of us: Rome</hi> was <hi>among us,</hi> though we were not <hi>in Rome</hi>) Prelacy, and the Prelaticall Clergy, Prieſts
+<pb n="19" facs="tcp:113160:12"/> and Jeſuites, Ceremonies and <hi>Service-Book,</hi> Star-Chambers and High-Commiſſion Court, with all the appurtenances: Theſe were <hi>mighty impediments</hi> and <hi>obſtructions</hi> in the way of <hi>Reformation</hi> and <hi>Deliverance;</hi> and God hath <hi>mightily brought them down.</hi>
+                  </p>
+                  <p>Take <hi>Bariach</hi> with <hi>Jerome,</hi> for <hi>principes populi:</hi> God hath pretty well brought them down too. The <hi>Malignant Nobi<g ref="char:EOLhyphen"/>lity</hi> and <hi>Gentry</hi> of the Kingdom have known to their coſt, what it is to oppoſe God, and riſe up againſt Chriſt, would they ſee the hand of God, now it is lifted up.</p>
+                  <p>Next to the Biſhops and Popiſh Clergy of the Land, they have been the greateſt ſcorners and oppoſers of Reforma<g ref="char:EOLhyphen"/>on, and active Incendiaries in this combuſtion, the flames whereof have devoured <note place="margin">Amos 7.4.</note> 
+                     <hi>the great deep, and eaten up a part: Ireland</hi> almoſt conſumed, and a great part of <hi>England</hi> and <hi>Scotland</hi> laid waſte. I ſay, God hath ſo broken, and brought them down, that we may in a great part tranſlate the words in my Text, as ſome do, <note place="margin">
+                        <hi>Calvin</hi> and others.</note> 
+                     <hi>Omnes illi fugitivi; They are all fugitives:</hi> 
+                     <note place="margin">Flie b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yond Sea.</note> God hath made many of them flie, and others of them fall, before you and your Armies; ſo that that Prophe<g ref="char:EOLhyphen"/>ſie ſeems to reckon upon our times: <note place="margin">Iſaiah 5.9.</note> 
+                     <hi>In mine ears, ſaith the Lord of Hosts, of a truth many Houſes ſhall be deſolate, even great and fair, without Inhabitant.</hi>
+                  </p>
+                  <p>Or if we take <hi>Bariach</hi> for <hi>Muri, Turres, porta, omniaque munimenta;</hi> Hath not God brought them down, and laid them low, as flat, as ever the Walls of <hi>Jericho,</hi> before your Armies?</p>
+                  <p>I want time and memory to liſt, and file up the names of thoſe ſtrong Holds, and ſeemingly impregnable Fortificati<g ref="char:EOLhyphen"/>ons which God hath brought down, even of late, and deli<g ref="char:EOLhyphen"/>vered up into the hands of your Armies, (to paſſe by in ſilence theſe great things done formerly ſince the beginning of theſe Civill Wars.)</p>
+                  <p>
+                     <hi>Shrewsbury, Leiceſter, Scarborough, Pomtefract, Stoake<g ref="char:EOLhyphen"/>ley-Caſtle</hi> in Shropſhire, <hi>Cannon Froom,</hi> taken by our Bre<g ref="char:EOLhyphen"/>thren of Scotland; The Garriſon at <hi>Highworth</hi> Church in Wiltſhire, <hi>Bridgewater, Bathe,</hi> and <hi>Sherborn</hi>-Caſtle, ſome of the mercies which we this day celebrate.</p>
+                  <pb n="20" facs="tcp:113160:13"/>
+                  <p>And thus God hath brought down their <hi>Bars</hi> in every ſenſe.</p>
+                  <p>There is another word in the Text, that we muſt take in, and that is, <hi>The Chaldeans, i. e.</hi> All the <hi>Military ſtrength and forces of Babylon;</hi> the Armies that the King of <hi>Babylon</hi> had raiſed in all his Empire, to make reſiſtance againſt the <hi>Medes</hi> and <hi>Perſians, ut ſupra.</hi> And hath not God brought down theſe alſo before your Victorious Forces? Not to mention <hi>Edgehill, Newbury, York, &amp;c.</hi> Surely, the marchings of your <hi>new Model,</hi> under that renowned Generall, Sir <hi>Thomas Fairfax,</hi> that <hi>deſpiſed,</hi> and <hi>deſpaired Army;</hi> deſpiſed of enemies, and deſpaired of by friends, have been like the marchings of <hi>Joſhua,</hi> and the Army of <hi>Iſrael,</hi> under his conduct; of whom it is ſaid (when once <hi>Achan</hi> the Trou<g ref="char:EOLhyphen"/>bler of <hi>Iſrael,</hi> was diſcovered and removed) in the tenth of <hi>Joſhua: He went and took it, and ſmote it; he went and took it, and ſmote, &amp;c.</hi> Seven or eight times over. And may we not reckon up ſeven or eight as glorious marches and ſuc<g ref="char:EOLhyphen"/>ceſſes within ſeven or eight weeks? He went to <hi>Naſeby</hi>-field, and took and ſmote; and from <hi>Naſeby</hi>-field to <hi>Leiceſter,</hi> and took it and ſmote it; and from thence, our <hi>Joſhua</hi> paſſed to the ſiege of <hi>Taunton,</hi> and took, and delivered it from being ſmitten; and from thence, to the enemy in the field of <hi>Langport,</hi> and took them, and ſmote them; and from thence, to <hi>Bridgewater,</hi> and took it, and ſmote; and from thence, to <hi>Bathe,</hi> and took it, and ſmote it; and from thence to <hi>Sher<g ref="char:EOLhyphen"/>born</hi>-Caſtle, and took it, and ſmote it; ſave onely, that did not lie ſo expreſſely in the Commiſſion of this <hi>Joſhua,</hi> to <hi>ſmite,</hi> as it was in the Commiſſion of that <hi>Joſhua,</hi> which you may read, <hi>Deut.</hi> 7.2. <hi>And when the Lord thy God ſhall deliver them before thee, thou ſhalt ſmite them, and utterly de<g ref="char:EOLhyphen"/>ſtroy them; thou ſhalt make no Covenant with them, nor ſhew mercy unto them</hi> The ſword of our <hi>Joſhua</hi> hath ſhewn more mercy; And I wiſh it may ſo convince and gain the poor deceived people in the Weſt, and other places; that they will not ſtand out to their own deſtruction.</p>
+                  <p>Never Hiſtory ſince <hi>Joſhua</hi>'s dayes, can file up ſo many glorious Victories, upon ſuch long and tedious marches, ac<g ref="char:EOLhyphen"/>compliſhed by one Army in ſo ſhort a time.</p>
+                  <pb n="21" facs="tcp:113160:13"/>
+                  <p>The fruits whereof are,</p>
+                  <p n="1">1. <hi>The breaking in pieces the ſtrongeſt Armies that the King had in this Kingdom,</hi> which ſcorned and curſed your new Mo<g ref="char:EOLhyphen"/>del, as much as ever the great Philiſtine did little <hi>David;</hi> but God made it a formidable inſtrument in his hand; ſuch a one, one would think <hi>that very inſtrument,</hi> propheſied of by the Prophet <hi>Iſaiah:</hi> 
+                     <note place="margin">Iſa. 41.15.</note> 
+                     <hi>Behold</hi> (ſaith God) <hi>I will make thee a new ſharp threſhing inſtrument having teeth: thou ſhalt threſh the moun<g ref="char:EOLhyphen"/>tain, and beat them ſmall, and ſhalt make the hills as chaff. A new inſtrument</hi> indeed this was, after your <hi>old</hi> was broken; and it had <hi>teeth:</hi> The proud enemy thought it was a <hi>toothleſſe</hi> inſtrument that could not bitte; but they have felt, to their coſt, that it hath <hi>teeth, ſharp teeth:</hi> Surely theſe <hi>teeth</hi> have torn their fleſh, and broke their bones in peices: <hi>and it hath threſht the mountains.</hi> I think thoſe mountains and hills, thoſe proud preſumptuous and blaſphemous Armies, have been pretty well threſht by this <hi>New inſtrument</hi> in the hand of our Redeemer; it hath beaten them even to duſt and chaff in the high places of the field.</p>
+                  <p>Is there any of them here that jeered and ſcorned that New Inſtrument? that have deſpiſed that <hi>New Model,</hi> as if it conſiſted of a company of feeble unskilfull boys, rather then men of War: Sir, go home, and learn to confeſſe, The <hi>Lord of Hosts</hi> can make better Souldiers in a few days, then the <hi>Prince of Orange</hi> can do in many yeers.</p>
+                  <p n="2">2. A ſecond fruit is the <hi>relieving of our diſtreſſed friends in divers parts of the Kingdom,</hi> who cried unto our Generall, as ſometime the <hi>Gibconites</hi> did unto <hi>Joſhua, Come down quickly, and ſave us;</hi> for all the Kings of the <hi>Amorites</hi> are upon us.</p>
+                  <p>And truely it may be ſaid of our worthy Generall, as then of <hi>Joſhua,</hi> 
+                     <note place="margin">Joſh. 10.9.</note> 
+                     <hi>He came up ſuddenly, and went up from Gilgal all night:</hi> Yea, many days and nights did our Armies and their worthy Commanders march to the relief of their Brethren, whoſe deſtruction elſe would have filled the Land with the ſaddeſt lamentations that ever have been heard in <hi>England</hi> ſince the beginning of this unnaturall War.</p>
+                  <p n="3">3. The <hi>diſperſing of the Club-men;</hi> a Plot of as dangerous and deſperate an aſpect as any ſince theſe Troubles began; and
+<pb n="22" facs="tcp:113160:14"/> that the Contrivers of it (whoever they were) knew well enough; and had providence caſt that ſucceſſe upon the ene<g ref="char:EOLhyphen"/>mie, which he hath mercifully and miraculouſly bleſt and ho<g ref="char:EOLhyphen"/>noured your Armies withall, we had known, to our ſorrow, before this time.</p>
+                  <p n="4">4. The great and gracious hopes of a full and ſpeedy re<g ref="char:EOLhyphen"/>gaining of the <hi>Weſt,</hi> the poor almoſt-deſolate <hi>Weſt,</hi> which was as a garden of <hi>Eden</hi> before the enemy, but behinde him a deſolate Wilderneſſe.</p>
+                  <p>My Brethren, behold a wonder; our Sun, contrary to the courſe of Nature, is riſen in the Weſt, where we were afraid it was going, if not gone down: But God hath wrought in as much wonder and more mercy for us, as once for <hi>Joſhua:</hi> He hath commanded the Sun ſtand ſtill in the Weſt; yea, as once for <hi>Hezekiah,</hi> he hath brought it back by many degrees which it was gone down in the Weſtern Ho<g ref="char:EOLhyphen"/>rizon.</p>
+                  <p n="5">5. A fifth fruit is, The opening of the paſſages of Trade and Traffick, which a long time have been obſtructed, to the great impoveaiſhing of this City, and divers other Cities and Towns in the Kingdom.</p>
+                  <p n="6">6. The encouragement of your friends, and diſcourage<g ref="char:EOLhyphen"/>ment of your enemies at home and abroad: Your friends ſhall hear of the ſucceſſe God hath given to your Forces, and their hands ſhall be ſtrong, their hearts ſhall be comfor<g ref="char:EOLhyphen"/>ted, and their ſpirits raiſed, concerning <hi>England.</hi> Enemies ſhall hear of it, and their hearts ſhall fail them, and their knees ſhall ſmite one againſt another, and none of the men of might ſhall finde their hands: yea, thouſands of them that were ſeduced and deceived by the lyes and flatteries of the enemies, ſhall come in, and fall down at your feet, and confeſſe that God is with you of a truth.</p>
+                  <p n="7">7. The Enlargement of thouſands of our dear and preci<g ref="char:EOLhyphen"/>ous Brethren out of bonds and impriſonment, whoſe feet have been hurt in the Stocks, and the Irons have entred into their ſouls.</p>
+                  <p n="8">8. The hopes and beginnings of the reducing of <hi>Wales,</hi> four Counties already come in.</p>
+                  <pb n="23" facs="tcp:113160:14"/>
+                  <p n="9">9. A door of Hope opened for gaſping <hi>Ireland.</hi>
+                  </p>
+                  <p n="10">10. And laſtly, which is all, A fair and hopefull poſſibility yea probability (if our murmure and unbelief do not wheel us back again into the wilderneſſe) of putting an end, this Summer, to the bleeding diſtractions of this poor languiſhing Kingdom, and of making a Peace upon your own terms.</p>
+                  <p>Surely methinks God ſeems to tell you, You may be deli<g ref="char:EOLhyphen"/>livered if you will; I am willing, if you be willing.</p>
+                  <p>God hath given you gracious demonſtrations, that when men go faithfully and cordially about their buſineſſe, what a world of work may be done in a little time.</p>
+                  <p>And now if you would know for whoſe ſake God hath done all this, my Text will tell you, <hi>For your ſakes have I ſent to Babylon.</hi> It is for his Church and peoples ſake. God hath a people in <hi>England,</hi> for whoſe ſake he hath ſent to <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> and brought down the cry of the Nobles, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Who they be, or how you may know whether you be of the number of them for whoſe ſakes God hath done theſe things, I ſhall give an hint in the cloſe of the Work.</p>
+                  <p>In the mean time, ſuffer, I beſeech you, the words of Ex<g ref="char:EOLhyphen"/>hortation: And it is this:</p>
+                  <p>
+                     <hi>If God do ſuch great things for your ſake, thou be you exhor<g ref="char:EOLhyphen"/>ted to do great things for the Lords ſake.</hi>
+                  </p>
+                  <p>The Church and people of God have been of ſuch a diſpoſition, that they have thought they could never do or ſuffer enough for the Lords ſake.</p>
+                  <p>
+                     <note place="margin">Pſal. 44.22.</note> 
+                     <hi>For thy ſake we are killed all the day long.</hi>
+                  </p>
+                  <p>
+                     <note place="margin">2 Cor. 12.10.</note> 
+                     <hi>I take pleaſure in infirmities, in reproches, in neceſſities, in perſecutions, in diſtreſſes, for Chriſts ſake.</hi>
+                  </p>
+                  <p>And again: <note place="margin">Acts 21.13.</note> 
+                     <hi>I am not onely ready to be bound, but to die, for the Name of the Lord Jeſus.</hi>
+                  </p>
+                  <p>O let the ſame minde be in you, that was in <hi>David,</hi> in <hi>Paul,</hi> and in the reſt of the Saints: Be ready <hi>to do,</hi> be readie <hi>to ſuffer:</hi> Be willing to <hi>live,</hi> be willing to <hi>die;</hi> and think nothing too much, for his ſake, who hath done ſuch great things for your ſakes.</p>
+                  <p>I muſt crave leave to branch out this Exhortation to two ſorts.</p>
+                  <pb n="24" facs="tcp:113160:15"/>
+                  <p n="1">1. To you <hi>Honourable and highly-honoured Senators of the Land.</hi>
+                  </p>
+                  <p n="2">2. To you the people of <hi>God</hi> that ſtand here this day, and the reſt of your brethren thorowout the Kingdom.</p>
+                  <div n="1" type="branch">
+                     <p>Firſt, to you <hi>the Worthies of Englands Parliament.</hi>
+                     </p>
+                     <p>For your ſakes <hi>God</hi> hath ſent to <hi>Edge-hill,</hi> and to the <hi>North,</hi> and to the <hi>Weſt,</hi> and hath brought down the cry of their No<g ref="char:EOLhyphen"/>bles, <hi>&amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>God</hi> hath honoured you more then ever he honoured any <hi>Parliament</hi> ſince the foundations of this Kingdom were laid, and hath done as great things for you as ever he did for any Aſſembly of men, I think, ſince the foundations of the world were laid.</p>
+                     <p>And now, Honoured Senatours, ſtudie your <hi>Renders, What ſhall I render to the Lord?</hi> &amp;c. Studie what you ſhould do for the Lords ſake, who hath done ſo much for yours.</p>
+                     <p>Will you give me leave to by your <hi>Remembrancer?</hi> I will do it with all Humility, Fidelity and Plainneſſe, being encou<g ref="char:EOLhyphen"/>raged thereto by former experience of your candid and Chri<g ref="char:EOLhyphen"/>ſtian entertainment of the faithfulneſſe and faceneſſe of thoſe whom you have called to this Service.</p>
+                     <p>
+                        <note place="margin">
+                           <hi>Omme bonum quod ſuperbus ſibi arrogat ſup<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>diaculum dia<g ref="char:EOLhyphen"/>bolo facit.</hi> Guil. Pariſ.</note> Firſt therefore, for the Lords ſake, ſtudie <hi>Humility:</hi> You cannot exalt <hi>God,</hi> if you lift up your ſelves. And truely there be two things that do eaſily ſwell the heart with pride, if it be not well watcht; <hi>ſc. Greatneſſe,</hi> and <hi>Good ſucceſſe:</hi> Both theſe have been your portion; <hi>God</hi> hath lifted you up, and ſet you upon the higheſt <hi>Throne</hi> in the Kingdom, The Throne of <hi>Le<g ref="char:EOLhyphen"/>giſlative power:</hi> Every one of you reſemble the perſon of a <hi>Prince;</hi> you are ſo many <hi>little kings.</hi>
+                     </p>
+                     <p>And <hi>God</hi> hath given you admirable <hi>Succeſſes</hi> (ever ſince he call'd you together) to the aſtoniſhment of all that ſee or hear of the Lords goings forth with you and for you: O now take heed, I beſeech you, that <hi>theſe</hi> do not become <hi>tem<g ref="char:EOLhyphen"/>ptations</hi> and <hi>ſnares</hi> to you, <note place="margin">Deut. 17.20.</note> whereby <hi>your hearts ſhould be lifted up above your brethren,</hi> that they ſhould become cheap and vile in your eyes. O let not that which ſhould lift up your heart in <hi>Thankfulneſſe,</hi> lift up your heart in <hi>pride</hi> and <hi>haughti<g ref="char:EOLhyphen"/>neſſe.</hi>
+                     </p>
+                     <pb n="24" facs="tcp:113160:15"/>
+                     <p>You know how it fared with <hi>Hezekiah,</hi> though a very gracious King, and what the ſad conſequences of it was: But <hi>Hezekiah</hi> rendred not again according to the benefit done un<g ref="char:EOLhyphen"/>to him; <note place="margin">2 Chron. 32.25.</note> 
+                        <hi>for his heart was lifted up;</hi> namely, upon his <hi>mira<g ref="char:EOLhyphen"/>culous recovery,</hi> and the <hi>honour that was done him</hi> thereupon, by the King of <hi>Babylon.</hi>
+                     </p>
+                     <p>Obſerve, I beſeech you, <hi>Hezekiah rendred not,</hi> &amp;c. why? For <hi>his heart was lifted up.</hi> A proud man doth no<g ref="char:EOLhyphen"/>thing for Gods ſake, though he thinks God doth all for his ſake. And what follows? <hi>Therefore there was wrath upon him, and upon Judah and Jeruſalem.</hi>
+                     </p>
+                     <p>O Sirs, if ye have found your hearts thus lifted up, with <hi>Hezekiah,</hi> upon the honour and good ſucceſſes God hath caſt upon you; <hi>humble your ſelves in the preſence of God for the pride of your heart,</hi> as it is ſaid of <hi>Hezekiah</hi> in the next verſe, <hi>Why ſhould there be wrath upon you, and upon the whole King<g ref="char:EOLhyphen"/>dom for your ſakes?</hi> The lower you lie, the higher you lift up God, and the higher God will lift up you.<note place="margin">
+                           <hi>Humilitas ſem<g ref="char:EOLhyphen"/>per volat licet repere videatur inſtar avis voli<g ref="char:EOLhyphen"/>tantis, alas ad ſo<g ref="char:EOLhyphen"/>lem habentis, ro<g ref="char:EOLhyphen"/>ſtreque pendentis</hi> Guil. Pariſ. <hi>Perit omne ju<g ref="char:EOLhyphen"/>dicium, ubi res tranſit in affe<g ref="char:EOLhyphen"/>ctum.</hi>
+                        </note>
+                     </p>
+                     <p n="2">2. For the Lords ſake take heed of <hi>ſelf-intereſts,</hi> and <hi>by-ends:</hi> Where theſe prevail, there can be nothing done for the <hi>Lords ſake:</hi> Either the Lords work is not done, or not done <hi>to his minde,</hi> or not <hi>for his ſake,</hi> which is all one with not doing of it at all, and will bring a curſe with it. <note place="margin">Jer. 48.10.</note> 
+                        <hi>Curſed be he that doth the work of the Lord negligently.</hi>
+                     </p>
+                     <p>Hence it was that <hi>Jehu</hi>'s zeal in doing execution upon the houſe of <hi>Ahab,</hi> when God comes to reckon, is ſet upon the ſcore of Murder, <hi>Hoſ.</hi> 1. <hi>Jehu</hi> writes <hi>ſervice,</hi> God writes <hi>murder: Jehu</hi> ſets down <hi>zeal,</hi> God ſets down <hi>blood;</hi> and all becauſe he did the Lords work in the purſuit of his own baſe and ſinfull <hi>ends</hi> and <hi>intereſts.</hi> O that you would ſhake off theſe Vipers from your hands and hearts. If you will not ſhake them off, God will ſhake you off: If you will not ſhake theſe out of your boſoms, God will ſhake you out of his.</p>
+                     <p n="3">3. If you will do any thing for the Lords ſake, do this, Set up his <hi>Son</hi> upon his Throne; you cannot do any thing which the Lord will take more kindly at your hands: For <hi>the Father hath committed all Judgement</hi> (i. e. <hi>all Gov rnment</hi>) <hi>unto the Son, that men may honour the Son, as they honour the Father.</hi>
+                     </p>
+                     <pb n="26" facs="tcp:113160:16"/>
+                     <p>I am perſwaded, had this been done ſooner, <hi>England</hi> had not now been to have been delivered.</p>
+                     <p>
+                        <note place="margin">Jer. 10.7. Revel. 15.3.</note> He is King of <hi>Nations,</hi> and King of <hi>Saints.</hi> As King of Nations, he hath a Temporall Kingdom and Government over the world now he is in heaven, though he exerciſed not ſuch a Kingdom while he was on earth; <note place="margin">Matth. 28.18. 1 Cor. 15.25,27.</note> the Father having now given to him <hi>all power both in heaven and earth;</hi> and the Rule and Regiment of this Kingdom he hath committed to <hi>Monarchies, Ariſtocracies,</hi> or <hi>Democracies,</hi> as the ſeverall combinations and aſſociations of the people ſhall between themſelves think good to <hi>elect</hi> and <hi>erect.</hi> God leaves people to their own liberty in this caſe. <hi>Submit your ſelves to every Ordinance of man, for the Lords ſake. for the Lords ſake.</hi> 
+                        <note place="margin">
+                           <gap reason="foreign" resp="#OXF">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, <hi>i.e.</hi> 
+                           <gap reason="foreign" resp="#OXF">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. <hi>Gr. Schol. Civilis gubernationis diſpoſitio.</hi> Beza.</note> The Greek reads it, <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>To every humane Creation.</hi> Civill Go<g ref="char:EOLhyphen"/>vernment, in the kindes or ſpecies of it, is as it were but the creature of man, becauſe men may chuſe what kinde of Go<g ref="char:EOLhyphen"/>vernment they ſhall finde moſt advantagious to publike peace and welfare.</p>
+                     <p>But Chriſt is alſo the King of Saints: As he hath an inward and Spirituall Government in the Conſcience, which is one<g ref="char:EOLhyphen"/>ly his <hi>Throne;</hi> ſo he hath an outward Kingdom, which he doth <hi>viſibly</hi> exerciſe in his Church,</p>
+                     <p>Which doth conſiſt of theſe Particulars:</p>
+                     <p n="1">1. In that he conquers and ſubdues a people to himſelf, who are viſible ſubjects of this Kingdom.</p>
+                     <p n="2">2. In that he gives Laws and Statutes to this people, di<g ref="char:EOLhyphen"/>ſtinct from all the Laws and Statutes of all the Kingdoms and Republiques in the world; as the Church acknowledgeth <note place="margin">Iſa. 33.22.</note> 
+                        <hi>The Lord is our Judge, the Lord is our Law-giver, the Lord is our King,</hi> &amp;c.</p>
+                     <p n="3">3. In that he appoints and conſtitutes ſpeciall Officers in this Church, not onely to promulge theſe Laws, but to govern his people according to them <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> 
+                        <note place="margin">Matth. 28.19. Acts 20.28. Rom. 12.8. 1 Cor. 12.28. <gap reason="foreign" resp="#OXF">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. <hi>Presbyterorum ordinem declarat qui diſciplinae &amp; Politiae Eccleſi<g ref="char:EOLhyphen"/>aſtica cuſtodes erant.</hi>
+                        </note> 
+                        <hi>Go teach all Nations:</hi> Feed the flock <hi>whereof the holy Ghoſt hath made you overſeers. He that ruleth, with diligence.</hi> And <hi>God hath ſet in his Church Governments.</hi>
+                     </p>
+                     <p>
+                        <hi>The ſpirit of the Prophets is ſubject to the Prophets,</hi> 1 Cor. 14.32.</p>
+                     <pb n="27" facs="tcp:113160:16"/>
+                     <p n="4">4. In that he hath commanded all the people and ſubjects of this Kingdom to be obedient (in the Lord) unto theſe Of<g ref="char:EOLhyphen"/>ficers. <note place="margin">Heb. 13.7.</note> 
+                        <hi>Remember them that have the rule over you,</hi> &amp;c. and, <note place="margin">Verſ. 17.</note> 
+                        <hi>Obey them that have the rule over you.</hi> Who doth he mean here? the Civill Magiſtrate? No: for it is added, <hi>Which have ſpoken to you the Word of God;</hi> and, <hi>They watch for your ſouls,</hi> &amp;c.</p>
+                     <p n="5">5. In that Chriſt hath appointed <hi>penalties</hi> to be inflicted upon the <hi>ſtubborn</hi> and <hi>diſobedient,</hi> proper to this Government: <note place="margin">Matth. 18.17.</note> 
+                        <hi>Let him be to thee as an Heathen,</hi> &amp;c. and put <hi>away from a<g ref="char:EOLhyphen"/>mong your ſelves that wicked perſon,</hi> &amp;c.</p>
+                     <p>Now therefore ſince the Lord Jeſus is <hi>King of Na<g ref="char:EOLhyphen"/>tions,</hi> and <hi>King of Saints,</hi> ſet him up <hi>as both, in both</hi> his King<g ref="char:EOLhyphen"/>doms and Governments; and do it <hi>thorowly,</hi> and do it <hi>ſpec<g ref="char:EOLhyphen"/>dily.</hi>
+                     </p>
+                     <p n="1">1. Do it <hi>thorowly.</hi> Would you have a <hi>thorow Deliverance,</hi> ſtudie a <hi>thorow Reformation</hi> of Church and State.</p>
+                     <p>Think not, renowned Nobles and Patriots, of doing the work of Reformation by <hi>degrees,</hi> and <hi>piecemeal:</hi> It will be Chriſts Honour, and your Advantage, to let your Reformati<g ref="char:EOLhyphen"/>on come forth as <hi>full</hi> and <hi>honourable</hi> at firſt as may be: O it will ſtrike the more fear and awe into the hearts of people; it will be your honour in the eyes of your own people, and ſtrangers abroad, who will certainly ſay, <hi>O what Nation is there ſo great, who hath God ſo nigh unto them as the Lord our God is in all things that we call upon him for?</hi> (ſurely Refor<g ref="char:EOLhyphen"/>mation is the great thing which the Saints this day in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and in the three Kingdoms have prayed for) <hi>And what Nation is there ſo great, that hath Statutes and Judgements ſo righteous as all that Law of Reformation is, which Englands Parliament have ſet up?</hi>
+                     </p>
+                     <p>But now, let your Reformation be <hi>poor,</hi> and <hi>mean,</hi> and <hi>low</hi> at firſt, ſuch as wicked men may ſit ſecurely under; you diſ<g ref="char:EOLhyphen"/>courage &amp; kill the hearts of the godly that have been praying for you, and expecting a Reformation from you; encourage the common people to trample upon your Reformation, and the Miniſtery; and render your ſelves cheap and contemptible to all the reformed Churches, who do certainly ſtand at a gaze upon <hi>Englands</hi> Parliament and Aſſembly, expecting not onely
+<pb n="28" facs="tcp:113160:17"/> that you ſhould follow them, but that you ſhould hold forth to all the Chriſtian world the moſt full, pureſt and glo<g ref="char:EOLhyphen"/>rious Reformation that hath been ſince the Churches have begun to ſhake off the yoke of Antichriſtian Bondage.</p>
+                     <p>You have done admirably in the <hi>deſtructive</hi> and <hi>purging</hi> part of <hi>Reformation:</hi> with <hi>Hezekiah,</hi> 
+                        <note place="margin">2 Chron. 24.15,26.</note> 
+                        <hi>You have brought out the uncleanneſſe that was found in the Temple of the Lord. You have pulled up every plant which by our heavenly Father hath not planted,</hi> and taken out of his Kingdom <hi>whatſoever did offend;</hi> and the Lord bleſſe you for it.</p>
+                     <p>Now therefore, that your <hi>work</hi> and your <hi>bleſſing</hi> may be compleat, ſtudie to be anſwerable in the <hi>poſitive</hi> and <hi>erective</hi> part of <hi>Reformation;</hi> that as you have left nothing that Jeſus Chriſt would have removed, ſo there may want nothing that Jeſus Chriſt would have ſet up in this <hi>New Model</hi> of Church-Government. <note place="margin">Heb. 8.5.</note> 
+                        <hi>See that ye do all things according to the patern:</hi> ſo ſhall it be your honour, as it was <hi>Moſes,</hi> 
+                        <note place="margin">Heb. 3.2.</note> 
+                        <hi>To be faithfull to him that appointed him in all his Houſe.</hi> Do <hi>thorowly,</hi> that Chriſt may not be an <hi>underling</hi> in his own Houſe.</p>
+                     <p n="2">2. Do it <hi>ſpeedily.</hi>
+                     </p>
+                     <p>Tell me, I beſeech you, what have you got by Delays? Who hath been a gainer by them? Not <hi>Jeſus Chriſt,</hi> not <hi>you,</hi> not the <hi>work of Reformation.</hi> I know none that have gained by theſe unhappie Obſtructions, but <hi>Hereſie, profane<g ref="char:EOLhyphen"/>neſſe, diviſion,</hi> and in all theſe the <hi>devil.</hi>
+                     </p>
+                     <p>You cannot but know how it is in the <hi>Citie,</hi> and it would make your ſouls bleed to look into the Countrey, even thoſe that are under the <hi>Parliaments</hi> command (not to ſpeak of thoſe that lie under the <hi>Villanies</hi> and <hi>Violences</hi> of the enemy) I ſay it would make your bowels ake, and your hearts grieve, to ſee what a face of things there is in the Countrey; not ſo much truely as the face of a <hi>Church,</hi> a <hi>Garden of God;</hi> but the face of a <hi>Wilderneſſe;</hi> not a faithfull Miniſter perhaps in twenty Congregations; and where there is, they know not what to do with their Congregations, for want of a <hi>Govern<g ref="char:EOLhyphen"/>ment:</hi> So that in the mean time the greateſt part turn pro<g ref="char:EOLhyphen"/>fane; and if one or two here and there peep out of the dun<g ref="char:EOLhyphen"/>geons of Ignorance and Atheiſm, to enquire after the ways
+<pb n="29" facs="tcp:113160:17"/> of God, preſently they are ſnapt up, and ſeduced into ſome way or other, of <hi>Hereſie</hi> or <hi>Schiſm,</hi> becauſe there is neither <hi>hand</hi> nor <hi>inſtrument</hi> to take <hi>theſe Foxes,</hi> 
+                        <note place="margin">Cant. 2.15.</note> 
+                        <hi>the little Foxes that ſpoil the Vines,</hi> that now begin to have tender Grapes. If you mean that <hi>England</hi> ſhall be turned into a wilderneſſe, and be over-run with <hi>Atheiſm,</hi> and <hi>Hereſie,</hi> and <hi>Prophaneneſſe,</hi> and <hi>Blaſphemy,</hi> you may hold your hands; <hi>and you need not do it long:</hi> But better it were, that <hi>England</hi> ſhould be over<g ref="char:EOLhyphen"/>run with fire and ſword; better it ſhould be devoured by plague and peſtilence; (the Arrows whereof flie ſo thick a<g ref="char:EOLhyphen"/>broad, that they darken the very Heavens over our heads) till man and beaſt were deſtroyed off the face of this good Land, rather then this ſhould come to paſſe: Better judgement ſhould turn us into a Wilderneſſe, then ſin ſhould do it; bet<g ref="char:EOLhyphen"/>ter <hi>welter</hi> in our <hi>blood,</hi> then <hi>wallow</hi> in our <hi>lusts.</hi>
+                     </p>
+                     <p>Therefore, for the Lords ſake, for the Lords ſake, and again I ſay, for the Lords ſake, <hi>make haſte;</hi> be <hi>through,</hi> be <hi>ſpeedy</hi> in your <hi>Reformation.</hi> Would you not ſtay long for a <hi>Delive<g ref="char:EOLhyphen"/>rance,</hi> let not <hi>Chriſt</hi> ſtay long for a <hi>Reformation.</hi> In both re<g ref="char:EOLhyphen"/>ſpects, hear what an Heathen Emperour could adviſe and command: <note place="margin">Ezra 7.2<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </note> 
+                        <hi>Whatſoever is commanded by the God of Heaven, let it be diligently done for the Houſe of the God of Heaven; for why ſhould there be wrath againſt the Realm of the King and his ſons?</hi>
+                     </p>
+                     <p>I ſhould come to the fourth particular; but that there is one thing as a branch of this third, which I deſire leav cum<g ref="char:EOLhyphen"/>bly to commend unto you; and that is,</p>
+                     <p>Concerning the <hi>Sacrament</hi> of the <hi>Lords Supper.</hi>
+                     </p>
+                     <p>O, if you would expreſſe your <hi>love</hi> and <hi>zeal,</hi> and <hi>thankful<g ref="char:EOLhyphen"/>neſſe</hi> to God in any thing: If there be any thing wherein you would expreſſe your <hi>kindneſſe</hi> and <hi>fidelity</hi> to the <hi>Lord Jeſus;</hi> do it in this: There is not a neerer concernment, wherein you can gratifie God (if I may ſo ſay) then this; What hath God dearer to him, then his <hi>Son?</hi> And what hath his <hi>Son</hi> dearer to him, then his <hi>Body</hi> and <hi>Blood?</hi> Oh, look to it I be<g ref="char:EOLhyphen"/>ſeech you, that that be not <hi>prophaned</hi> and <hi>troden</hi> under feet by any <hi>unworthy</hi> perſon, ſo far as it is in your power to pre<g ref="char:EOLhyphen"/>vent it.</p>
+                     <pb n="30" facs="tcp:113160:18"/>
+                     <p>Herein you may do well to imitate the Biſhops, in build<g ref="char:EOLhyphen"/>ing a <hi>Rail,</hi> or if that word like you not, change it a letter or two, and make a <hi>Rule</hi> about the <hi>Lords Table:</hi> But be ſure, make it ſo <hi>thick</hi> and ſo <hi>high,</hi> that not a Dog may <hi>creep through,</hi> or <hi>leap over,</hi> to eat the <hi>Childrens Bread;</hi> 
+                        <note place="margin">
+                           <hi>De occultis non judicat eccleſia.</hi>
+                        </note> not one (I mean) that <hi>appears</hi> to be <hi>ſo;</hi> for ſecret things we muſt leave to the Lord to judge.</p>
+                     <p>Let me humbly ask you one Queſtion.</p>
+                     <p>Are there any kinde of ſinners think you, that <hi>Jeſus Chriſt</hi> would have <hi>excluded</hi> from that holy Myſtery? If <hi>any,</hi> then <hi>all</hi> of the <hi>ſame Nature</hi> and <hi>Influence;</hi> for what if you ſhould keep out <hi>ſeventy,</hi> yea, <hi>ſeven thouſand,</hi> ſins and ſinners from the <hi>Sacrament,</hi> 
+                        <note place="margin">1 Cor. 11.27.</note> and let but <hi>one ſcandalous ſinner</hi> come, would not he be found a <hi>Crucifier</hi> of the <hi>Son</hi> of God? yea, and (let me ſpeak freely) <hi>you too,</hi> if he come under your <hi>protection.</hi> But if <hi>Jeſus Chriſt</hi> would have all come promiſcuouſly to his Board; it is not in the power of Elderſhips, nor Claſ<g ref="char:EOLhyphen"/>ſes, nor Aſſemblies, or Parliaments, nor any body in the World, to ſuſpend any one kinde of ſin or ſinner from that <hi>Holy Feaſt.</hi>
+                     </p>
+                     <p>Honourable and Beloved: Your <hi>blood,</hi> and the <hi>blood</hi> of your <hi>ſons</hi> and <hi>daughters</hi> hath been precious in Gods eyes: O let the <hi>blood</hi> of <hi>the Son of God,</hi> be precious in your eyes. God hath not proſtituted your fleſh and your blood to <hi>any</hi> of your wicked enemies; O ſuffer not the fleſh and blood of the <hi>Lord Jeſus</hi> to be proſtituted to <hi>any</hi> of his wicked enemies. For ſuppoſe God ſhould ſay, The <hi>Iriſh</hi> ſhall not ſpill your blood; Prince <hi>Ruperts</hi> Army ſhall not drink your blood; <hi>Hoptons</hi> Army ſhall not; <hi>Gorings</hi> Army ſhall not; <hi>Greenvils</hi> ſhall not; the <hi>Clubmen</hi> ſhall not; and ſo name ſeven, yea, ſeven times ſeven Armies, and Nations, and yet give <hi>Commiſ<g ref="char:EOLhyphen"/>ſion</hi> or <hi>leave</hi> but for <hi>one Army, one Nation,</hi> in all the world, to eat your fleſh, and drink your blood; what would it avail you, that the reſt were ſuſpended and reſtrained? O give not the <hi>Lord Jeſus</hi> occaſion to ſay of you, <note place="margin">1 Sam. 25.21.</note> as ſometime <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſaid of <hi>Nabal:</hi> Surely, In vain have I kept all that theſe men have; I have been <hi>ſparing</hi> of their blood, and they have been <hi>prodigall</hi> of mine: Now therefore go <hi>blaſphemers,</hi> go
+<pb n="31" facs="tcp:113160:18"/> 
+                        <hi>drunkards,</hi> go <hi>Sabbath-breakers,</hi> go ye <hi>worſt of men,</hi> and eat their fleſh and drink their blood, and the blood of their ſons and daughters. O deal not ſo unkindly with the <hi>Lord Jeſus;</hi> to provoke him to jealouſie: <hi>Purge</hi> the <hi>Sacrament,</hi> and <hi>purge</hi> it <hi>throughly;</hi> And then haſten the <hi>ſetting up</hi> of that <hi>Ordinance</hi> in all <hi>Congregations</hi> (where there be a competent number fit for it.) Behold, the children <hi>cry</hi> for <hi>this bread,</hi> and there is <hi>none</hi> to <hi>give it unto them:</hi> Behold, The <hi>Spouſe</hi> of <hi>Chriſt</hi> is <hi>ſick</hi> of <hi>love</hi> and <hi>hunger;</hi> and therefore, haſten to <hi>ſtay</hi> her with this <hi>bread,</hi> and <hi>comfort</hi> her with theſe <hi>flagons,</hi> that ſhe may eat and drink, and her ſoul may bleſſe you before ſhe die.</p>
+                     <p>Fourthly, For the Lords ſake <hi>do execution upon all the pro<g ref="char:EOLhyphen"/>feſſed and implacable enemies of the Lord Jeſus;</hi> who have ſaid and ſworn, <note place="margin">Luke 19.14.</note> 
+                        <hi>This man ſhall not reign over us.</hi> Behold, Chriſt commands you, ſaying, <note place="margin">Verſe 27.</note> 
+                        <hi>Bring them hither, and ſlay them before me.</hi> For your ſake God hath ſent to <hi>Babylon,</hi> and <hi>brought down your enemies,</hi> great and ſmall, and laid them dead at your feet; What can you do more anſwerably by way of return, for the Lords ſake, then to bring <hi>down his enemies,</hi> and ſlay them before his face? Behold, ſhall God for your ſake, not ſuffer Parliament-Traitors, and Parliament-Revilers, to live, and ſhall <hi>Chriſts Traitors,</hi> and <hi>Trinity-blaſphemers,</hi> eſcape your juſt and ſevereſt vengeance? God forbid. You had need to do ſomewhat as <hi>in vindictam</hi> ſo <hi>interrorem:</hi> For I tell you, Blaſphemy begins to be very bold and impudent; <note place="margin">Eccleſ. 8.<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>.</note> 
+                        <hi>Be<g ref="char:EOLhyphen"/>cauſe ſentence againſt evill doers, is not ſpeedily executed; therefore the heart of the ſons of men is fully ſet in them to do and utter evill.</hi> O draw out your ſword to execute judge<g ref="char:EOLhyphen"/>ment againſt ſuch enemies of <hi>Jeſus Chriſt, That others may hear and fear, and do no more ſo wickedly.</hi>
+                     </p>
+                     <p>Fifthly, For the Lords ſake, <hi>Look to his poor Members that ſuffer:</hi> O hear the complaints of your poor Brethren that are oppreſt by inferiour Committees in any part of the King<g ref="char:EOLhyphen"/>dom, that none that ſit under your ſhadow, may have juſt cauſe to ſay, You have pull'd down <hi>one Star-Chamber,</hi> and ſet up <hi>hundreds:</hi> Look to your <hi>wounded Souldiers;</hi> to the poor <hi>women</hi> that have been made <hi>widows,</hi> and <hi>children</hi> that have been made <hi>fatherleſſe</hi> in the Parliaments Service; Their
+<pb n="32" facs="tcp:113160:19"/> cry is gone up to <hi>Heaven:</hi> O let their cry enter into your ears. Look to theſe Families, many whereof have been of good eſtates, that by this unnaturall War, <hi>and for owning you, and your work,</hi> have been driven from their habitations, deſtitute and naked, and have fled to this City of <hi>Refuge,</hi> (ſo God hath made <hi>London</hi>) to ſeek for ſhelter and relief: Or, O that you would give us leave to look to them, and provide for them; by making ſome other proviſions for your <hi>wounded Souldiers,</hi> that the <hi>Collections</hi> in the City, might be imployed for the relief of ſuch as are ready to give up the ghoſt at our doors, or lie languiſhing at home, chuſing rather almoſt to die, then to diſcover their wants and neceſſities. Know ye not that thouſands are ready to periſh for want of bread a<g ref="char:EOLhyphen"/>mong us, and we have not wherewith to relieve their ſouls? This is a work that much concerns <hi>Jeſus Chriſt;</hi> for he hath ſaid it, <note place="margin">Matth. 25.45.</note> 
+                        <hi>In as much as ye have done it to one of the leaſt of theſe, ye have done it unto me.</hi>
+                     </p>
+                     <p>Sixthly, For the Lords ſake, <hi>Stand by your friends, and the friends of Christ and his Cauſe:</hi> Herein you ſtand by <hi>Jeſus Christ</hi> himſelf. The enemy have gained much (but the God would not ſuffer them to keep it) by their <hi>fidelity,</hi> or <hi>policy</hi> rather, to their friends. O come not ſhort of them in point of <hi>fidelity,</hi> nor let <hi>the children of this world be alwayes wiſer in their generations, then the children of light;</hi> Let none have juſt cauſe to ſay, We ſuffer for our good will to the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> if you can help it: You have the better <hi>Cauſe;</hi> ſtand by it, and it will ſtand by you.</p>
+                  </div>
+                  <div n="2" type="branch">
+                     <p>I come now to ſpeak a word in the laſt place, to all that ſtand before God this day; and the whole people of this Kingdom: God hath done great things for your ſakes alſo, as you have heard. And now what will you do for the Lords ſake?</p>
+                     <p>There be but two or three things, that in this ſtrait of time, I ſhall commend to you as proper returns for theſe great deliverances and victories.</p>
+                     <p>Firſt, Since God hath brought down your enemies a<g ref="char:EOLhyphen"/>broad, <hi>do you labour to bring down his enemies at home.</hi> God hath avenged you in the blood of <hi>baſe</hi> and <hi>wicked men,</hi> do you
+<pb n="17" facs="tcp:113160:19"/> avenge God in the blood of your <hi>baſe</hi> and <hi>ſinfull luſts.</hi> God hath pulled down the <hi>ſtrong holds</hi> of your enemies, and made them fall before you; do you down with theſe <hi>ſtrong holds</hi> within every one of you, <note place="margin">2 Cor. 10.5,6.</note> whereby <hi>Jeſus Chriſt</hi> hath been kept out of your hearts. Brethren, better it is to periſh by the luſts of our enemies, then by our own luſts; and better the enemy had prevailed and blaſphemed <hi>God</hi> with their tongues, then we <hi>delivered</hi> to reproach and blaſpheme <hi>God</hi> by our lives. Hear what an angry queſtion <hi>God</hi> asks, <note place="margin">Jer. 7.9,10.</note> 
+                        <hi>Will ye ſteal, murder, and commit adultery, and ſwear falſely, and burn Incenſe unto</hi> Baal, <hi>and walk after other gods whom we know not; and come and ſtand before me in this houſe, which called by my Name, and ſay, We are delivered to do all theſe abominations?</hi> O let us not be the reproach of <hi>victories;</hi> let us not ſin <hi>against,</hi> much leſſe ſin <hi>upon,</hi> ſin <hi>becauſe</hi> of our <hi>deliverances:</hi> It is pity fair weather ſhould do any harm. <note place="margin">Deut. 32.6.</note> 
+                        <hi>Do ye thus requite the Lord, O fooliſh people, and unwiſe?</hi> O let us put theſe luſts to <hi>flight,</hi> to <hi>death;</hi> whoſe cry hath been in <hi>Gods</hi> ears, calling for vengeance ſo long, on us, and on the Nation: <hi>God</hi> hath given us the heads of our enemies; let us give <hi>God</hi> the heads of our corruptions.</p>
+                     <p>Secondly, God hath made our enemies a Sacrifice for us, and we are as the Scape-Goat, as <hi>Iſaac.</hi> 
+                        <note place="margin">Rom. 12.1.</note> 
+                        <hi>I beſeech you there<g ref="char:EOLhyphen"/>fore, brethren, by the mercies of God, that ye preſent your bodies a living ſacrifice, holy, acceptable unto God, wichh is your reaſo<g ref="char:EOLhyphen"/>nable ſervice.</hi> This is indeed a reaſonable ſervice, that he that hath <hi>redemeed</hi> us, ſhould have us: <note place="margin">1 Cor. 6.20.</note> 
+                        <hi>Ye are bought with a price, therefore glorifie God with your bodies and ſouls, which are Gods.</hi>
+                     </p>
+                     <p>Thirdly, <hi>Let us ſtill own the Cauſe, which we ſee God ſtill owns;</hi> and ſerve it with our <hi>Eſtates,</hi> our <hi>Counſells,</hi> our <hi>Prayers,</hi> our <hi>perſons,</hi> and if need be, our <hi>lives</hi> and <hi>blood:</hi> Chriſt hath not deſerted us, let not us deſert Chriſt. And to this purpoſe; Let us all, both <hi>Parliament</hi> and <hi>people, Re<g ref="char:EOLhyphen"/>member our Covenant;</hi> Let us often <hi>read over our Covenant,</hi> and live up with our Covenant, and act up with our Cove<g ref="char:EOLhyphen"/>nant, and reform up with our Covenant. It is a fearfull thing to let a Covenant lie by the walls, as worm-eaten
+<pb n="34" facs="tcp:113160:20"/> Paper; it is a fearfull thing to take a Covenant, as it were, for no other end then to aggravate our ſins; that as the <hi>Light</hi> turns <hi>ſin</hi> into <hi>rebellion,</hi> ſo the <hi>Covenant</hi> might aggravate <hi>rebellion</hi> into <hi>perjury.</hi> How may we expect for this, That <hi>God</hi> ſhould ſtrengthen the hand, and ſharpen the ſword of the enemy, which for a while he hath in mercy <hi>weakned</hi> and <hi>blunted,</hi> and let it in upon us, with Commiſſion, <note place="margin">Levit. 26.25.</note> 
+                        <hi>To avenge the quar<g ref="char:EOLhyphen"/>rell of the Covenant?</hi> O let us be wiſe to Salvation, and ſay with <hi>David,</hi> 
+                        <note place="margin">Pſal. 116.12,14.</note> 
+                        <hi>What ſhall I render to the Lord for all his mercies? I will pay my vows unto the Lord:</hi> And again, <note place="margin">Pſal. 56.12.</note> 
+                        <hi>Thy vows are upon me, O God, I will render praiſe unto thee.</hi>
+                     </p>
+                     <p>Now therefore, holy Bretheren, Partakers of the <hi>Hea<g ref="char:EOLhyphen"/>venly Calling,</hi> let us every one in our <hi>ſtations</hi> and <hi>callings,</hi> ſtir up our ſelves to be <hi>active</hi> for God, who hath been <hi>mighty</hi> for us. And for your encouragement, take this <hi>precious,</hi> and I hope <hi>prevailing motive,</hi> (it is the hint and evidence I pro<g ref="char:EOLhyphen"/>miſed you even now; and with which I will conclude.)</p>
+                     <p>Hereby we ſhall know that we are of the number of thoſe for whoſe ſake <hi>God</hi> hath done theſe great things, (and will do yet greater) when we finde our <hi>hearts raiſed</hi> and <hi>enlarged</hi> to <hi>do great things for him:</hi> By this we may know, <hi>God doth all for us, when we do all for him:</hi> He hears us when we have an heart to hear him. If we finde ſuch a frame of heart, here is comfort indeed; <hi>Deliverances,</hi> and <hi>deliverances</hi> for <hi>our ſake; Victories,</hi> and <hi>victories</hi> not onely by <hi>divine leave,</hi> but with <hi>divine love, love to our perſons,</hi> and <hi>love to our prayers, &amp;c.</hi> Theſe be <hi>deliverances</hi> indeed; <hi>Victories</hi> worth the having; <hi>victories</hi> of <hi>Gods Iſrael,</hi> 
+                        <note place="margin">Gen. 32.28.</note> ſuch as of <hi>Jacobs, wreſtlers,</hi> have be<g ref="char:EOLhyphen"/>come <hi>Iſraels, Princes, to prevail with God and men.</hi>
+                     </p>
+                     <p>O let us ſtudy this; It is the ſpirituall, and the beſt part of our <hi>mercies,</hi> a divine <hi>impreſſion,</hi> and <hi>argument</hi> of the love of God upon our ſpirits: Surely, There is not a more glorious ſight on this ſide Heaven, then to ſee <hi>a God doing great things for a people, and a people doing great things for their God.</hi>
+                     </p>
+                     <p>The Lord be <hi>ſuch a God to us,</hi> and make us <hi>ſuch a people to him,</hi> and we are happy for ever. <hi>Amen.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
